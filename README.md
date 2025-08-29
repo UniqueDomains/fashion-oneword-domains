@@ -1,17 +1,17 @@
 
-# **Fashion One-Word Domain Names**: Daily Updated List of Available Domains
+# **fashion One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available Fashion one-word domains.
+This regularly updated dataset includes the latest available fashion one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/fashion-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **Fashion one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Fashion&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **fashion one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fashion&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word Fashion domains.
+- **Domain Name**: High-quality, single-word fashion domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -21,44 +21,44 @@ This regularly updated dataset includes the latest available Fashion one-word do
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain       | status    | attractiveness | demand | length | created          | expires          | registrar                                                 | sectors                           |
-| ------------ | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | --------------------------------------------------------- | --------------------------------- |
-| soft.online  | available | 124            | 88     | 4      |                  |                  |                                                           | Fashion,Health and Fitness,Retail |
-| fancy.app    | resell    | 124            | 84     | 5      | 12/06/2020 20:59 | 12/06/2026 20:59 | Global Domains International, Inc. DBA DomainCostClub.com | Arts,Fashion,Media                |
-| gay.site     | available | 122            | 96     | 3      |                  |                  |                                                           | Entertainment,Fashion,Media       |
-| thick.ninja  | available | 120            | 84     | 5      |                  |                  |                                                           | Fashion,Food and Beverage,Media   |
-| thick.us     | resell    | 120            | 84     | 5      | 24/02/2018 00:05 | 24/02/2026 00:05 | GoDaddy.com, LLC                                          | Fashion,Food and Beverage,Media   |
-| leg.space    | available | 116            | 92     | 3      |                  |                  |                                                           | Fashion,General,Healthcare,Sports |
-| color.site   | available | 116            | 92     | 5      |                  |                  |                                                           | Arts,Fashion,General              |
-| yellow.site  | available | 116            | 92     | 6      |                  |                  |                                                           | Arts,Fashion,Media                |
-| leg.cloud    | available | 116            | 92     | 3      |                  |                  |                                                           | Fashion,General,Healthcare,Sports |
-| woman.space  | available | 112            | 76     | 5      |                  |                  |                                                           | Fashion,General,Healthcare        |
-| velvet.ninja | available | 112            | 88     | 6      |                  |                  |                                                           | Arts,Fashion,Retail               |
-| intimate.net | resell    | 110            | 80     | 8      | 09/08/2000 10:45 | 09/08/2025 10:45 | GoDaddy Online Services Cayman Islands Ltd.               | Fashion,Healthcare,Media          |
-| intimate.me  | expiring  | 110            | 80     | 8      | 17/07/2008 15:02 | 17/07/2025 15:02 | DNPric.es                                                 | Fashion,Healthcare,Media          |
-| blonde.io    | resell    | 110            | 84     | 6      | 07/07/2016 00:30 | 07/07/2026 00:30 | GoDaddy.com, LLC                                          | Fashion,Retail                    |
-| blonde.app   | resell    | 110            | 84     | 6      | 04/01/2024 13:27 | 04/01/2026 13:27 | Spaceship, Inc.                                           | Fashion,Retail                    |
-| crimson.ai   | resell    | 110            | 76     | 7      | 16/12/2017 04:40 | 18/05/2027 04:40 | Deep Vision Architects                                    | Fashion,Food and Beverage,Retail  |
-| blonde.site  | available | 110            | 84     | 6      |                  |                  |                                                           | Fashion,Retail                    |
-| face.pro     | resell    | 108            | 88     | 4      | 06/03/2005 00:00 | 06/03/2026 00:00 | Registrar of Domain Names REG.RU LLC                      | Fashion,General,Healthcare,Media  |
-| face.dev     | expiring  | 108            | 88     | 4      | 24/07/2024 16:02 | 24/07/2025 16:02 | GoDaddy.com, LLC                                          | Fashion,General,Healthcare,Media  |
-| design.store | available | 108            | 92     | 6      |                  |                  |                                                           | Arts,Fashion,Technology           |
-| fab.online   | available | 106            | 84     | 3      |                  |                  |                                                           | Entertainment,Fashion,Media       |
-| fair.online  | available | 106            | 84     | 4      |                  |                  |                                                           | Fashion                           |
-| fab.so       | resell    | 106            | 84     | 3      | 21/06/2020 02:49 | 21/06/2026 02:49 | NameCheap                                                 | Entertainment,Fashion,Media       |
-| fair.pro     | sold      | 106            | 84     | 4      | 11/12/2018 10:25 | 11/12/2026 10:25 | Dynadot3 LLC                                              | Fashion                           |
-| fab.ninja    | expired   | 106            | 84     | 3      | 30/04/2024 21:44 | 30/04/2025 21:44 | NameCheap, Inc.                                           | Entertainment,Fashion,Media       |
-| lavish.co    | expiring  | 106            | 76     | 6      | 20/07/2010 18:10 | 19/07/2025 23:59 | Dynadot Inc                                               | Fashion,Hospitality,Retail        |
-| wink.pro     | resell    | 104            | 84     | 4      | 29/06/2023 15:15 | 29/06/2026 15:15 | Sav.com, LLC - 31                                         | Entertainment,Fashion,Retail      |
-| flannel.so   | available | 104            | 84     | 7      |                  |                  |                                                           | Fashion,Hospitality,Retail        |
-| flannel.app  | available | 104            | 84     | 7      |                  |                  |                                                           | Fashion,Hospitality,Retail        |
-| strut.app    | expiring  | 104            | 84     | 5      | 25/07/2019 17:01 | 25/07/2025 17:01 | Sav.com, LLC                                              | Arts,Fashion,Media                |
+| domain            | status    | attractiveness | demand | length | created          | expires          | registrar                                   | sectors                               |
+| ----------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ------------------------------------------- | ------------------------------------- |
+| okay.fashion      | available | 146            | 28     | 4      |                  |                  |                                             | Business,Retail                       |
+| bad.fashion       | resell    | 142            | 39     | 3      | 01/03/2019 17:22 | 01/03/2027 17:22 | GoDaddy.com, LLC                            | Education,General                     |
+| damn.fashion      | available | 140            | 20     | 4      |                  |                  |                                             | Entertainment,Sports                  |
+| one.fashion       | expiring  | 132            | 43     | 3      | 11/09/2015 05:33 | 11/09/2025 05:33 | GoDaddy Online Services Cayman Islands Ltd. | Business,General,Media,Technology     |
+| off.fashion       | available | 128            | 22     | 3      |                  |                  |                                             | Business,General                      |
+| away.fashion      | available | 126            | 23     | 4      |                  |                  |                                             | Business,Media,Travel                 |
+| brief.fashion     | available | 124            | 20     | 5      |                  |                  |                                             | Business,Education,General,Law        |
+| tough.fashion     | available | 122            | 13     | 5      |                  |                  |                                             | Health and Fitness,Sports             |
+| heavy.fashion     | resell    | 122            | 22     | 5      | 24/06/2025 11:53 | 24/06/2026 11:53 | Spaceship, Inc.                             | Business,Media,Technology             |
+| tender.fashion    | available | 120            | 22     | 6      |                  |                  |                                             | Hospitality,Retail                    |
+| complete.fashion  | available | 120            | 21     | 8      |                  |                  |                                             | Manufacturing,Retail,Technology       |
+| wizard.fashion    | available | 118            | 41     | 6      |                  |                  |                                             | Entertainment,Media,Technology        |
+| flat.fashion      | available | 116            | 23     | 4      |                  |                  |                                             | Construction,Real Estate              |
+| fond.fashion      | available | 116            | 11     | 4      |                  |                  |                                             | General,Hospitality,Retail            |
+| tenth.fashion     | available | 116            | 7      | 5      |                  |                  |                                             | Mathematics                           |
+| flush.fashion     | available | 114            | 12     | 5      |                  |                  |                                             | Business,Finance,Media                |
+| tonic.fashion     | available | 114            | 22     | 5      |                  |                  |                                             | Health and Fitness,Medicine,Science   |
+| average.fashion   | available | 112            | 12     | 7      |                  |                  |                                             | Mathematics                           |
+| above.fashion     | available | 112            | 22     | 5      |                  |                  |                                             | Business                              |
+| acute.fashion     | available | 112            | 9      | 5      |                  |                  |                                             | Mathematics,Medicine,Science          |
+| support.fashion   | available | 112            | 38     | 7      |                  |                  |                                             | Business,Politics                     |
+| overnight.fashion | available | 112            | 15     | 9      |                  |                  |                                             | Hospitality,Travel                    |
+| audible.fashion   | available | 112            | 29     | 7      |                  |                  |                                             | Entertainment,Technology              |
+| hotshot.fashion   | available | 112            | 14     | 7      |                  |                  |                                             | Business,Entertainment,Sports         |
+| warm.fashion      | available | 112            | 16     | 4      |                  |                  |                                             | Hospitality,Retail                    |
+| bloody.fashion    | available | 110            | 11     | 6      |                  |                  |                                             | Entertainment,Law,Media               |
+| adult.fashion     | available | 110            | 23     | 5      |                  |                  |                                             | Education,Healthcare                  |
+| only.fashion      | resell    | 110            | 38     | 4      | 01/09/2020 18:33 | 01/09/2027 18:33 | GoDaddy.com, LLC                            | Business,Media,Retail                 |
+| joint.fashion     | available | 108            | 19     | 5      |                  |                  |                                             | Construction,Healthcare,Manufacturing |
+| total.fashion     | resell    | 108            | 35     | 5      | 24/08/2020 06:41 | 24/08/2026 06:41 | eNom, LLC                                   | Finance,Mathematics                   |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Fashion&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fashion&utm_content=description.bottom)
 
 Search, filter and download the full database of one word domains.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/fashion-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Fashion&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/fashion-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fashion&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
