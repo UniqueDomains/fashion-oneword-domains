@@ -1,62 +1,62 @@
 
-# List of .FASHION One Word Domain Names (3,222)
+# List of Fashion One Word Domain Names (2,261)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/fashion-oneword-domains.svg?style=flat)]() [![3,222 .FASHION one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-3%2C222-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/Fashion-oneword-domains.svg?style=flat)]() [![2,261 Fashion one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-2%2C261-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
-We constantly sweep the web to catalog the highest potential .FASHION one-word domains still available to buy.
+We constantly sweep the web to catalog the highest potential Fashion one-word domains still available to buy.
 
-This dataset contains 3,281 .FASHION one word domains with availability, attractiveness and demand scores.
+This dataset contains 1,000 Fashion one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [.FASHION one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fashion-oneword-domains&utm_content=description.top) (3,222) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [Fashion one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Fashion-oneword-domains&utm_content=description.top) (2,261) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/fashion-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/fashion-oneword-domains/blob/main/fashion.csv"><b>⬇️ CSV (3.28K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/fashion-oneword-domains/blob/main/fashion.json"><b>⬇️ JSON (3.28K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fashion-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.22K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Fashion-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Fashion-oneword-domains/blob/main/Fashion.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Fashion-oneword-domains/blob/main/Fashion.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Fashion-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (2.26K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain             | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| ------------------ | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abactinal.fashion  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.fashion      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.fashion  | available | 58       | 10%    | 9      |           |         |         |
-| abashed.fashion    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.fashion     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.fashion   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.fashion     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.fashion    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.fashion   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.fashion  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.fashion  | available | 82       | 2%     | 9      |           |         |         |
-| abdominous.fashion | available | 56       | 1%     | 10     |           |         |         |
-| abducens.fashion   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.fashion   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.fashion  | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.fashion    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.fashion | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.fashion   | available | 74       | 7%     | 8      |           |         |         |
-| abeyant.fashion    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.fashion  | available | 54       | 1%     | 9      |           |         |         |
-| abiding.fashion    | available | 106      | 5%     | 7      |           |         |         |
-| abient.fashion     | available | 54       | 1%     | 6      |           |         |         |
-| abject.fashion     | available | 94       | 8%     | 6      |           |         |         |
-| abkhas.fashion     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.fashion  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.fashion     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.fashion  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.fashion    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.fashion   | available | 68       | 3%     | 8      |           |         |         |
-| ablaze.fashion     | available | 72       | 6%     | 6      |           |         |         |
+| Domain          | Status    | Attract. | Demand | Length | Registrar                                                           | Created          | Expires          |
+| --------------- | --------- | -------- | ------ | ------ | ------------------------------------------------------------------- | ---------------- | ---------------- |
+| clothing.app    | available | 68       | 76%    | 8      |                                                                     |                  |                  |
+| clothing.at     | resell    | 68       | 76%    | 8      | EuroDNS SA ( https://nic.at/registrar/421 )                         |                  |                  |
+| clothing.dev    | available | 68       | 76%    | 8      |                                                                     |                  |                  |
+| clothing.expert | available | 68       | 76%    | 8      |                                                                     |                  |                  |
+| clothing.io     | resell    | 68       | 76%    | 8      | Dynadot Inc                                                         | 06/06/2013 00:15 | 06/06/2026 00:15 |
+| clothing.it     | expiring  | 68       | 76%    | 8      |                                                                     | 30/01/1997 00:00 | 03/08/2025 00:00 |
+| clothing.me     | expiring  | 68       | 76%    | 8      | GoDaddy.com, LLC                                                    | 09/07/2008 17:02 | 09/07/2025 17:02 |
+| clothing.online | available | 68       | 76%    | 8      |                                                                     |                  |                  |
+| clothing.site   | available | 68       | 76%    | 8      |                                                                     |                  |                  |
+| clothing.so     | available | 68       | 76%    | 8      |                                                                     |                  |                  |
+| clothing.space  | available | 68       | 76%    | 8      |                                                                     |                  |                  |
+| clothing.store  | available | 68       | 76%    | 8      |                                                                     |                  |                  |
+| clothing.tech   | available | 68       | 76%    | 8      |                                                                     |                  |                  |
+| clothing.us     | resell    | 68       | 76%    | 8      | GoDaddy.com, LLC                                                    | 24/04/2002 14:01 | 23/04/2026 23:59 |
+| clothing.zone   | available | 68       | 76%    | 8      |                                                                     |                  |                  |
+| apparel.at      | resell    | 98       | 84%    | 7      | eu-iris.at web invest gmbh & co KG ( https://nic.at/registrar/679 ) |                  |                  |
+| apparel.dev     | available | 98       | 84%    | 7      |                                                                     |                  |                  |
+| apparel.io      | resell    | 98       | 84%    | 7      | GoDaddy.com, LLC                                                    | 25/01/2015 00:30 | 25/01/2026 00:30 |
+| apparel.me      | expiring  | 98       | 84%    | 7      | Dynadot Inc                                                         | 17/07/2008 15:02 | 17/07/2025 15:02 |
+| apparel.net     | resell    | 98       | 84%    | 7      | Tirupati Domains and Hosting Pvt Ltd.                               | 04/05/1995 04:00 | 05/05/2026 04:00 |
+| apparel.ninja   | available | 98       | 84%    | 7      |                                                                     |                  |                  |
+| apparel.online  | available | 98       | 84%    | 7      |                                                                     |                  |                  |
+| apparel.site    | available | 98       | 84%    | 7      |                                                                     |                  |                  |
+| apparel.so      | available | 98       | 84%    | 7      |                                                                     |                  |                  |
+| apparel.space   | available | 98       | 84%    | 7      |                                                                     |                  |                  |
+| apparel.store   | available | 98       | 84%    | 7      |                                                                     |                  |                  |
+| apparel.tech    | available | 98       | 84%    | 7      |                                                                     |                  |                  |
+| apparel.xyz     | sold      | 98       | 84%    | 7      | Dynadot LLC                                                         | 30/05/2019 19:13 | 30/05/2029 23:59 |
+| apparel.zone    | resell    | 98       | 84%    | 7      | GoDaddy.com, LLC                                                    | 10/05/2014 07:08 | 10/05/2026 07:08 |
+| couture.app     | expiring  | 71       | 96%    | 7      | Dynadot LLC.                                                        | 26/07/2019 19:16 | 26/07/2025 19:16 |
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/fashion-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/fashion-oneword-domains/blob/main/fashion.csv"><b>⬇️ CSV (3.28K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/fashion-oneword-domains/blob/main/fashion.json"><b>⬇️ JSON (3.28K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fashion-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.22K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Fashion-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Fashion-oneword-domains/blob/main/Fashion.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Fashion-oneword-domains/blob/main/Fashion.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Fashion-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (2.26K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -64,7 +64,7 @@ If you want to search & filters the complete database of [.FASHION one word doma
 
 # Which data do we provide?
 
-- **Domain Name**: High-quality, single-word .FASHION domains.
+- **Domain Name**: High-quality, single-word Fashion domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attract.**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -646,11 +646,11 @@ If you want to search & filters the complete database of [.FASHION one word doma
 | Travel             | 4,279        | [Github](https://github.com/UniqueDomains/Travel-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)                 |
 | Utilities          | 3,639        | [Github](https://github.com/UniqueDomains/Utilities-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)              |
 
-# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fashion-oneword-domains&utm_content=description.bottom)
+# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Fashion-oneword-domains&utm_content=description.bottom)
 
 Access the most complete and advanced database of one word domains.
 
 Spot short, memorable domain names that earn trust, dominate search engines, and appreciate over time.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/fashion-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fashion-oneword-domains&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/Fashion-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Fashion-oneword-domains&utm_content=description.image)
         
