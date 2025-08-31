@@ -257,7 +257,6 @@ b718ffe6-dff8-4934-8be0-6a536451782a,swimwear.space,available,68,84,8,,,
 b030cada-a4f5-4884-a6c5-703f2cf6d16f,swimwear.store,available,68,84,8,,,
 e49b4021-6bcb-40a7-a541-59632b8a9d42,swimwear.tech,available,68,84,8,,,
 521edad4-ebcb-4758-82e9-21c407636f8a,swimwear.zone,available,68,84,8,,,
-b3583cb8-ab84-46ee-905a-f0cc8e07a8ed,outerwear.app,available,54,80,9,,,
 711f75c5-8bae-4787-bc62-c81d8ab0792e,outerwear.cloud,available,54,80,9,,,
 f04984bd-fba4-4db7-b7d3-cedcd4a15fa7,outerwear.co,resell,54,80,9,"GoDaddy.com, LLC",10/08/2023 10:44,10/08/2025 10:44
 12d42f60-b76a-4ee8-ac60-27ff59296f50,outerwear.com,resell,54,80,9,PDR Ltd. d/b/a PublicDomainRegistry.com,04/09/2001 18:05,04/09/2025 18:05
@@ -275,6 +274,7 @@ da7f1d7b-caa6-4319-9f96-d4783c3e6658,outerwear.pro,resell,54,80,9,Epik LLC,13/10
 d400a9fd-4547-4c74-ab54-dabcc24e7bf6,outerwear.store,available,54,80,9,,,
 6ed57204-fa81-46eb-9026-e93ada2c0a81,outerwear.tech,available,54,80,9,,,
 f2fa3a2b-d15f-4bef-96b5-108d283e33eb,outerwear.zone,available,54,80,9,,,
+b3583cb8-ab84-46ee-905a-f0cc8e07a8ed,outerwear.app,available,54,80,9,,,
 1c6f2c51-43ff-4a8e-93ba-82bec6c1182d,knitwear.app,available,62,76,8,,,
 7cf877b5-ebfb-46e7-964d-599901e5196d,knitwear.at,available,62,76,8,,,
 b8724931-098d-42cd-bfc7-17a877d52587,knitwear.cloud,available,62,76,8,,,
@@ -389,15 +389,15 @@ de0c4012-a40c-4449-ae2c-7dabf806a268,tops.tech,available,,92,4,,,
 43c7c340-6a81-4a46-a9a9-992e5cc39862,trousers.at,available,66,80,8,,,
 ad5c3953-bf9a-4bd6-9f40-dcee6ab77016,trousers.co,available,66,80,8,,,
 ef77b567-ba3a-40c5-875f-1a4f318ba0ea,trousers.dev,available,66,80,8,,,
-9a907695-dc92-416a-8f90-74f818598b7c,trousers.expert,available,66,80,8,,,
 c4b83318-18ad-4acf-8316-f738c652c331,trousers.gg,available,66,80,8,,,
-3d6dcb51-6fb2-4609-9943-42e0d242f39e,trousers.ninja,available,66,80,8,,,
-c724661b-eb66-40b8-b249-39ccfb840e7a,trousers.online,available,66,80,8,,,
-8f63cb57-e5fd-4b40-ac38-321e9170df0c,trousers.so,available,66,80,8,,,
-84a1a4fa-680f-4a26-9956-9716d9bf2723,trousers.tech,available,66,80,8,,,
-2abcea34-7d6a-43f8-ba54-00e8f90e9fc4,trousers.us,resell,66,80,8,Dynadot Inc,08/10/2020 00:03,08/10/2025 00:03
-1e22f974-d4b6-440d-9ca4-c92ead0c4d56,trousers.xyz,resell,66,80,8,West263 International Limited,05/01/2022 23:57,05/01/2026 23:59
+9a907695-dc92-416a-8f90-74f818598b7c,trousers.expert,available,66,80,8,,,
 63f96cc5-a351-4119-b73b-c3619bc4e0ac,trousers.zone,available,66,80,8,,,
+1e22f974-d4b6-440d-9ca4-c92ead0c4d56,trousers.xyz,resell,66,80,8,West263 International Limited,05/01/2022 23:57,05/01/2026 23:59
+2abcea34-7d6a-43f8-ba54-00e8f90e9fc4,trousers.us,resell,66,80,8,Dynadot Inc,08/10/2020 00:03,08/10/2025 00:03
+84a1a4fa-680f-4a26-9956-9716d9bf2723,trousers.tech,available,66,80,8,,,
+8f63cb57-e5fd-4b40-ac38-321e9170df0c,trousers.so,available,66,80,8,,,
+c724661b-eb66-40b8-b249-39ccfb840e7a,trousers.online,available,66,80,8,,,
+3d6dcb51-6fb2-4609-9943-42e0d242f39e,trousers.ninja,available,66,80,8,,,
 7c5a3d92-e01b-44d5-8d46-4bc316be4530,pants.app,expiring,100,84,5,Porkbun LLC,11/07/2024 21:08,11/07/2025 21:08
 7025a793-e11b-4335-8d4b-79c374009b44,pants.at,available,100,84,5,,,
 c9b607ee-3e77-4e79-85a4-d4117b50f3ea,pants.cloud,available,100,84,5,,,
@@ -595,22 +595,22 @@ ab2d5116-0795-4d71-aeea-98a6a9130c53,tights.space,available,72,76,6,,,
 8404e82b-87c2-4129-9892-4cbcb84d77a8,tights.tech,available,72,76,6,,,
 1ec74444-82a9-4991-b06c-d18a8f857643,tights.xyz,resell,72,76,6,"Go Daddy, LLC",02/06/2014 16:33,02/06/2026 23:59
 69366107-28c8-4e47-9c72-715deea9b10e,tights.zone,available,72,76,6,,,
-9105d18d-70a9-4528-8eb3-b3308d8602ae,underwear.ai,resell,66,72,9,"NameCheap, Inc.",07/04/2020 16:21,07/04/2026 16:21
-3f063205-9991-425b-b95c-358f792a0a05,underwear.at,sold,66,72,9,Hetzner Online GmbH ( https://nic.at/registrar/225 ),,
-68159eb3-2a28-4d72-95f2-2d3dbb9312d1,underwear.dev,available,66,72,9,,,
-a47ed418-87c7-4bdd-821d-6f990fce0336,underwear.gg,available,66,72,9,,,
-fdca2781-5f57-4cbd-9145-663d55ee62cb,underwear.io,expiring,66,72,9,Dynadot Inc,28/07/2019 10:15,28/07/2025 10:15
-e326e7ab-40e0-4228-b489-b9f6cb8a2aa5,underwear.it,expired,66,72,9,,27/07/1998 00:00,29/06/2025 00:00
-44b7f4c7-c106-412c-86d4-5f4363e927ff,underwear.me,expiring,66,72,9,DNPric.es,09/07/2008 17:10,09/07/2025 17:10
-dde21512-586c-4b88-8165-43d40d91079a,underwear.ninja,available,66,72,9,,,
 7807a1bc-2b57-4242-a983-20ac769f6133,underwear.online,available,66,72,9,,,
-b365b2ca-7360-47f9-868a-d0c75036f9d4,underwear.pro,resell,66,72,9,"Soluciones Corporativas IP, SL",21/11/2007 00:00,21/11/2025 00:00
-33a4aba4-12d1-400a-91fa-0a55081e4c42,underwear.site,available,66,72,9,,,
-a4eb1632-6663-4ac7-9c51-2f1212cc6544,underwear.so,available,66,72,9,,,
-79f66443-baad-46d5-ba3c-93c6f829dc44,underwear.space,available,66,72,9,,,
-7f3dd936-f37f-4e7b-a91a-983b6c28466e,underwear.store,available,66,72,9,,,
-43018bc5-b310-4937-bc33-b0e0179c3d46,underwear.tech,available,66,72,9,,,
 aef3406a-74ff-4e24-ab51-1c730296f7df,underwear.us,expired,66,72,9,InternetX GmbH,03/06/2004 06:08,02/06/2025 23:59
+43018bc5-b310-4937-bc33-b0e0179c3d46,underwear.tech,available,66,72,9,,,
+7f3dd936-f37f-4e7b-a91a-983b6c28466e,underwear.store,available,66,72,9,,,
+79f66443-baad-46d5-ba3c-93c6f829dc44,underwear.space,available,66,72,9,,,
+a4eb1632-6663-4ac7-9c51-2f1212cc6544,underwear.so,available,66,72,9,,,
+33a4aba4-12d1-400a-91fa-0a55081e4c42,underwear.site,available,66,72,9,,,
+b365b2ca-7360-47f9-868a-d0c75036f9d4,underwear.pro,resell,66,72,9,"Soluciones Corporativas IP, SL",21/11/2007 00:00,21/11/2025 00:00
+dde21512-586c-4b88-8165-43d40d91079a,underwear.ninja,available,66,72,9,,,
+44b7f4c7-c106-412c-86d4-5f4363e927ff,underwear.me,expiring,66,72,9,DNPric.es,09/07/2008 17:10,09/07/2025 17:10
+e326e7ab-40e0-4228-b489-b9f6cb8a2aa5,underwear.it,expired,66,72,9,,27/07/1998 00:00,29/06/2025 00:00
+fdca2781-5f57-4cbd-9145-663d55ee62cb,underwear.io,expiring,66,72,9,Dynadot Inc,28/07/2019 10:15,28/07/2025 10:15
+a47ed418-87c7-4bdd-821d-6f990fce0336,underwear.gg,available,66,72,9,,,
+68159eb3-2a28-4d72-95f2-2d3dbb9312d1,underwear.dev,available,66,72,9,,,
+3f063205-9991-425b-b95c-358f792a0a05,underwear.at,sold,66,72,9,Hetzner Online GmbH ( https://nic.at/registrar/225 ),,
+9105d18d-70a9-4528-8eb3-b3308d8602ae,underwear.ai,resell,66,72,9,"NameCheap, Inc.",07/04/2020 16:21,07/04/2026 16:21
 2684433f-be6a-4299-9a6c-12cf46ed01d5,briefs.at,available,74,80,6,,,
 ffaf4efd-b821-4a92-aaca-d5657592c477,briefs.co,expiring,74,80,6,"GoDaddy.com, LLC",12/07/2022 17:00,12/07/2025 17:00
 0bbeb778-818b-4bae-861c-d4a4d9187964,briefs.expert,available,74,80,6,,,
@@ -735,6 +735,7 @@ ab318a08-0aeb-4bad-b0c4-17df35369196,robes.so,available,,24,5,,,
 9e7ed67d-a73b-4d86-92a4-81f14ce3d13b,robes.tech,available,,24,5,,,
 eb6db097-9eb7-4290-9854-dd8405317229,robes.zone,available,,24,5,,,
 8bd5944f-a11b-4893-b122-7e6ede7b25bb,workwear.at,available,56,80,8,,,
+afd60c41-0088-486b-ad7a-d324c030cc04,workwear.tech,available,56,80,8,,,
 9edcb7e9-69b4-4c1b-b078-ef38459357a7,workwear.cloud,available,56,80,8,,,
 f344f306-f261-4adc-be46-ef547586614b,workwear.gg,available,56,80,8,,,
 7e49dbe2-faa5-49ff-a0e6-c516d11b7a39,workwear.it,resell,56,80,8,,05/01/2011 12:31,05/01/2026 00:00
@@ -743,18 +744,24 @@ e035bd8e-98d4-4578-bc48-bb11a93531fa,workwear.site,available,56,80,8,,,
 aeced225-bccb-44ed-b5f9-6c96364fdb33,workwear.so,resell,56,80,8,Dynadot LLC,03/12/2024 21:52,03/12/2025 21:52
 12bcc842-70ac-4a10-a57f-8782304650a1,workwear.space,available,56,80,8,,,
 2b92ede9-4e28-4056-a218-2b09fbaf1cbf,workwear.store,available,56,80,8,,,
-afd60c41-0088-486b-ad7a-d324c030cc04,workwear.tech,available,56,80,8,,,
+587b918d-a97a-4a0a-af55-396768ed250f,wear.my,available,70,,4,,,
+bff784eb-198c-402a-9b25-934f75abb3bb,wear.ac,available,70,,4,,,
+70d26386-94f9-4fc6-bcfa-4bed44e011a4,wear.ag,available,70,,4,,,
 9d7b2b34-9f98-4ad4-9c77-59adcf7acd84,wear.dev,resell,70,84,4,"GoDaddy.com, LLC",12/03/2021 10:37,12/03/2026 10:37
 85c0f55c-5d7e-401e-bc54-defef87010cc,wear.expert,available,70,84,4,,,
 8ff7563b-6555-491f-b3b2-f7aa5d8af568,wear.gg,resell,70,84,4,"Spaceship, Inc (https://www.spaceship.com)",,
-63dca50e-5496-4f46-be38-333cdf69d5a3,wear.io,expiring,70,84,4,Dynadot Inc,03/08/2013 03:11,03/08/2025 03:11
+02e3483d-487d-4444-badd-6c99d72e360a,wear.im,available,70,,4,,,
+63dca50e-5496-4f46-be38-333cdf69d5a3,wear.io,resell,70,84,4,Dynadot Inc,03/08/2013 03:11,03/08/2026 03:11
+bec2056e-7459-479b-a986-bb7003f27216,wear.la,resell,70,,4,.LA Founders Premium Program,08/03/2016 01:27,08/03/2026 23:59
 8310045b-81b3-470c-bd69-4a217a77e883,wear.me,sold,70,84,4,Key-Systems GmbH,18/07/2022 17:08,18/07/2026 17:08
 61aaf56f-5ff4-42c4-9aca-a5df42dbf924,wear.ninja,available,70,84,4,,,
 2e5c3d35-92cd-481e-9f28-feea85aaed43,wear.online,available,70,84,4,,,
-6fa1dbea-4f38-480c-9fb0-fd61a74e6581,wear.site,available,70,84,4,,,
-7e0b21a7-5d1f-455a-8953-805f459338a5,wear.so,resell,70,84,4,SOSTEC TECHNOLOGIES_LR,27/04/2024 05:01,27/04/2026 05:01
 dcb4eb35-9ccf-4251-bbbc-85fc2bafaaf7,wear.store,available,70,84,4,,,
 05021f83-46b7-4123-9631-93613afa78b4,wear.tech,available,70,84,4,,,
+85556956-97bd-48d8-9c4a-b35b6a63b375,wear.us,resell,70,,4,"GoDaddy.com, LLC",02/06/2004 18:15,01/06/2026 23:59
+b7354ee6-e438-4aa8-9460-52971de21415,wear.vc,resell,70,,4,Dynadot Inc,17/08/2020 23:45,17/08/2026 23:45
+6fa1dbea-4f38-480c-9fb0-fd61a74e6581,wear.site,available,70,84,4,,,
+7e0b21a7-5d1f-455a-8953-805f459338a5,wear.so,resell,70,84,4,SOSTEC TECHNOLOGIES_LR,27/04/2024 05:01,27/04/2026 05:01
 ab158997-862c-4073-b87c-6996fb4dc205,beachwear.ai,resell,62,76,9,"NameCheap, Inc.",19/06/2024 19:29,19/06/2026 19:29
 6dd19482-19c7-43fa-a079-39b0f1b2b063,beachwear.app,available,62,76,9,,,
 e1e0e6c3-931d-4167-8728-778f91161372,beachwear.cloud,available,62,76,9,,,
@@ -823,18 +830,18 @@ c0a12e31-1407-4515-a50a-bafb2e4f6f3d,sunglasses.site,available,,80,10,,,
 b3f977ab-f2f5-4721-bfa0-e418a5ec71a8,sunglasses.tech,available,,80,10,,,
 077e4cbf-965c-448b-bf1e-ac9bcd1ae0bd,sunglasses.us,sold,64,80,10,Dynadot Inc,11/07/2018 00:11,11/07/2026 00:11
 55610cc1-3e9c-4e4a-bb74-17513f2c6435,sunglasses.zone,available,,80,10,,,
-ef78a3da-cc19-47fa-83d8-e37bfd093e09,watches.at,sold,,88,7,Host Europe GmbH ( https://nic.at/registrar/168 ),,
-e2da43d6-bb73-42b0-ba87-0e7ca32ea783,watches.cloud,available,,88,7,,,
-607276cf-e07d-412f-974a-d12439374174,watches.dev,available,,88,7,,,
-1a38a520-c6ad-45ec-a5fc-4cf27d782eae,watches.expert,available,,88,7,,,
-728fa406-785b-4547-93fe-0c2807d82049,watches.it,expiring,,88,7,,10/06/1997 00:00,10/07/2025 00:00
-b2d013f0-295a-499e-b591-6803c4ad292f,watches.me,expiring,,88,7,"GoDaddy.com, LLC",09/07/2008 17:10,09/07/2025 17:10
-a4d3a6f7-b058-4f71-af31-9870d658c68a,watches.online,available,,88,7,,,
-9b8e0153-9602-47dc-abc5-e45bec70b3c4,watches.site,available,,88,7,,,
-06862fcf-2952-4d11-aa03-9592eb3912f6,watches.space,available,,88,7,,,
 2483459b-8c78-4181-b843-df14c5450752,watches.store,available,,88,7,,,
-7154ddfd-3a85-4c39-a07f-33f44f90101b,watches.tech,available,,88,7,,,
 ba994b8c-2684-4238-9fb5-856dfc5b7d4e,watches.zone,available,,88,7,,,
+7154ddfd-3a85-4c39-a07f-33f44f90101b,watches.tech,available,,88,7,,,
+06862fcf-2952-4d11-aa03-9592eb3912f6,watches.space,available,,88,7,,,
+9b8e0153-9602-47dc-abc5-e45bec70b3c4,watches.site,available,,88,7,,,
+a4d3a6f7-b058-4f71-af31-9870d658c68a,watches.online,available,,88,7,,,
+b2d013f0-295a-499e-b591-6803c4ad292f,watches.me,expiring,,88,7,"GoDaddy.com, LLC",09/07/2008 17:10,09/07/2025 17:10
+728fa406-785b-4547-93fe-0c2807d82049,watches.it,expiring,,88,7,,10/06/1997 00:00,10/07/2025 00:00
+1a38a520-c6ad-45ec-a5fc-4cf27d782eae,watches.expert,available,,88,7,,,
+607276cf-e07d-412f-974a-d12439374174,watches.dev,available,,88,7,,,
+e2da43d6-bb73-42b0-ba87-0e7ca32ea783,watches.cloud,available,,88,7,,,
+ef78a3da-cc19-47fa-83d8-e37bfd093e09,watches.at,sold,,88,7,Host Europe GmbH ( https://nic.at/registrar/168 ),,
 33329218-ad2c-4f7a-9b75-763b7a783d7b,belts.cloud,available,40,48,5,,,
 68cf8205-df32-4c82-8395-d47d6bda0d9c,belts.dev,available,40,48,5,,,
 65c14b03-8fed-4d79-97b7-7c5b87fe7d49,belts.expert,available,40,48,5,,,
@@ -925,14 +932,20 @@ aa5bc5e0-d481-41e3-93b8-e07ce5ec6460,gloves.space,available,46,32,6,,,
 e95b1849-69c1-46e3-b3be-06e7624154a5,gloves.store,expiring,46,32,6,"Go Daddy, LLC",02/08/2022 05:28,02/08/2025 23:59
 b9e3c028-bf44-4204-acc2-884818686640,gloves.tech,available,46,32,6,,,
 57ad2ab1-0b30-4382-9755-4953edb2a05f,gloves.zone,available,46,32,6,,,
+87af0cfc-3ce3-4af0-8381-81a5d011f8b2,ready.ac,available,78,,5,,,
+3bb1e4fd-e6ee-4d7d-bb89-6b59cd77ce59,ready.ag,available,78,,5,,,
 a4471110-568e-426e-af96-6c7873eb9155,ready.cloud,available,78,92,5,,,
 3d97c227-9c76-4162-beec-c5219fc35f11,ready.expert,expiring,78,92,5,Porkbun LLC,01/08/2024 21:07,01/08/2025 21:07
+8ba90c5d-02c9-4e09-8890-fe6970f132ff,ready.im,available,78,,5,,,
 80e71c13-4099-4e9f-8018-4f3672491e89,ready.it,sold,78,92,5,,22/03/1996 00:00,20/05/2026 00:00
+7b339bef-1498-43e3-aae5-e4bb09f741b1,ready.la,resell,78,,5,LA Domain Names,30/10/2017 08:01,30/10/2025 23:59
+8e1a8db6-8784-47af-98a5-deeef3c56235,ready.my,available,78,,5,,,
 2511c467-91fe-44b1-852a-e4565cd3989c,ready.site,available,78,92,5,,,
 da50b650-9743-4218-bccc-816c998d14c2,ready.space,available,78,92,5,,,
 0ab83bca-c12b-4c01-ab52-f4434adaa643,ready.store,available,78,92,5,,,
 f50ce515-5f81-4f01-89b1-747136c6ea58,ready.tech,resell,78,92,5,"Name.com, Inc",13/08/2015 03:23,13/08/2025 23:59
 b7861962-36b3-49eb-913a-d3542a3330fa,ready.us,resell,78,92,5,"GoDaddy.com, LLC",24/04/2002 14:05,23/04/2026 23:59
+082163df-15b5-4339-b245-1c90ece43532,ready.vc,resell,78,,5,Dynadot Inc,17/06/2020 01:10,17/06/2026 01:10
 54e58b8c-5b8e-4b40-a636-271211c015c6,rings.cloud,available,68,80,5,,,
 caa6317b-3892-465a-b2ea-ce7ef529fe23,rings.co,resell,68,80,5,"GoDaddy.com, LLC",25/02/2010 00:48,24/02/2026 23:59
 5086234b-a615-4647-bb9c-976f054322a1,rings.dev,available,68,80,5,,,
@@ -986,16 +999,3 @@ aaddfc11-94e3-4f0c-8c30-d5114e326c5e,maternity.tech,available,64,72,9,,,
 18d88102-2c4c-4871-8956-735811da0e1d,maternity.zone,available,64,72,9,,,
 c7f8cd1b-23d0-48dd-9110-dc4e76c54352,petite.ac,available,54,10,6,,,
 ccb1ce90-87ab-4d24-a628-849b5192f3ab,petite.academy,available,54,10,6,,,
-0d39368e-04d5-48bc-bdb9-f692aa962170,petite.accountant,available,54,10,6,,,
-d556025c-b243-4aec-838a-85df95bad32d,petite.accountants,available,54,10,6,,,
-f73973d8-6822-4303-9593-c8e4659461db,petite.actor,available,54,10,6,,,
-8ca81b44-95c2-4b7f-a2fa-b02e04f8c924,petite.adult,available,54,10,6,,,
-e3704079-e9f7-4350-9dea-413cd771ed5e,petite.ag,available,54,10,6,,,
-02dfbe37-f5b3-4b71-b433-2f38ae71e783,petite.ai,resell,54,10,6,"NameCheap, Inc.",31/01/2023 20:20,31/01/2027 20:20
-a2780731-2845-4567-bd8c-5692b6a620e1,petite.airforce,available,54,10,6,,,
-cebb0276-e0e1-4558-9582-682461be8cbf,petite.apartments,available,54,10,6,,,
-40ed517e-31bd-44a5-af66-178963dffe62,petite.app,expired,54,10,6,Squarespace Domains II LLC.,30/06/2018 18:53,30/06/2025 18:53
-d4cb33ef-1627-4e66-bdce-43ded8df4ff5,petite.archi,available,54,10,6,,,
-23a34125-a6cb-490d-a214-db89fff1b3dd,petite.army,available,54,10,6,,,
-f764a720-51cb-4226-bee4-d7dd83489aeb,petite.art,available,54,10,6,,,
-ba2c2f1e-6944-4c26-8713-30e727a9a315,petite.associates,available,54,10,6,,,
