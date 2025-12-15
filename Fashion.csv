@@ -26,7 +26,7 @@ a9ee41a2-c3b3-41f9-9890-ab53fb4de11a,apparel.agency,resell,98,13,7,"Sav.com, LLC
 bb9d3000-86d2-476b-812d-a097dbf495bf,apparel.apartments,available,98,13,7,,,
 3a871801-f5f5-4a91-a350-25c0259fb5fe,apparel.archi,available,98,13,7,,,
 3ca841e1-d954-4819-b337-dee9f2a7c66e,apparel.army,available,98,13,7,,,
-73044971-3c04-471f-a40a-027cb03a30c1,apparel.art,expiring,98,13,7,"Go Daddy, LLC",08/12/2021 22:20,08/12/2025 23:59
+73044971-3c04-471f-a40a-027cb03a30c1,apparel.art,sold,98,13,7,"Go Daddy, LLC",08/12/2021 22:20,08/12/2026 23:59
 4a3ee4a2-82dd-4d39-91d8-dc97b4f58bb8,apparel.asia,resell,98,13,7,"GoDaddy.com, LLC",04/07/2008 07:02,04/07/2026 07:02
 454ac3e2-007b-4085-8761-08054c05b36e,apparel.associates,available,98,13,7,,,
 605801b9-2aa9-4a97-ba49-d4f12aaa285a,apparel.at,resell,98,13,7,eu-iris.at web invest gmbh & co KG ( https://nic.at/registrar/679 ),,
@@ -40,7 +40,7 @@ bb9d3000-86d2-476b-812d-a097dbf495bf,apparel.apartments,available,98,13,7,,,
 fd66274d-3079-436f-b670-caf7e32e6a87,apparel.bayern,available,98,13,7,,,
 6e7d2283-c285-4f60-bb5e-cd346f0109fe,apparel.beauty,resell,98,13,7,"Spaceship, Inc.",30/01/2025 09:11,30/01/2026 23:59
 cd104d6f-ab4e-4451-b0e6-d0ad193e9502,apparel.berlin,available,98,13,7,,,
-4d289472-8460-453e-b478-0f40ce14c134,apparel.best,expiring,98,13,7,Namecheap,13/12/2023 00:36,13/12/2025 23:59
+4d289472-8460-453e-b478-0f40ce14c134,apparel.best,sold,98,13,7,Namecheap,13/12/2023 00:36,13/12/2026 23:59
 01047134-fa2e-4c67-8337-eb2fb278bcad,apparel.bet,available,98,13,7,,,
 7e669e76-b716-4767-968d-5542b7175338,apparel.bid,available,98,13,7,,,
 a78a7907-f7b7-499b-a632-1c29cbee08cd,apparel.bike,available,98,13,7,,,
@@ -77,7 +77,7 @@ a5c6731e-72d1-43d8-88bc-09e60dcd146d,apparel.casa,available,98,13,7,,,
 ed68f663-1ca1-42ab-807b-cafd5652901e,apparel.cash,available,98,13,7,,,
 2110fa70-0d19-46ec-9f70-a282e88c9b42,apparel.casino,available,98,13,7,,,
 36d7437a-db75-474c-86fe-dad8fce2033e,apparel.catering,available,98,13,7,,,
-7a7e42ec-4301-4b2c-b555-cad9f33d4c93,apparel.cc,expiring,98,13,7,Dynadot Inc,20/12/2007 09:47,20/12/2025 09:47
+7a7e42ec-4301-4b2c-b555-cad9f33d4c93,apparel.cc,resell,98,13,7,Dynadot Inc,20/12/2007 09:47,20/12/2026 09:47
 9b4d7114-85c5-47bf-ba13-a89b815edcab,apparel.ceo,available,98,13,7,,,
 a18261ee-a45d-45fe-9c42-640838f23ef9,apparel.cfd,resell,98,13,7,Dynadot LLC,27/04/2021 14:10,27/04/2026 23:59
 94933d2b-0ccb-471c-bdc2-c2497309156f,apparel.charity,available,98,13,7,,,
@@ -200,9 +200,10 @@ a4feef17-c54b-4e12-94b1-5afa5f534315,apparel.graphics,available,98,13,7,,,
 da84e071-2a52-425c-bf1c-9c5a5502e82e,apparel.guitars,available,98,13,7,,,
 64bcdf6a-04ed-44de-a14e-5bc7d28a2094,apparel.guru,resell,98,13,7,Dynadot Inc,17/07/2025 17:00,17/07/2026 17:00
 a9323bf6-dda4-4b40-a75a-ada65b2f1fe1,apparel.hair,available,98,13,7,,,
+dfb082dd-1055-4e17-907b-b5751cfb3254,apparel.haus,expiring,98,13,7,Porkbun LLC,12/01/2021 04:28,12/01/2026 04:28
 2079d87d-3bba-43cf-8269-973df72e3025,apparel.health,available,98,13,7,,,
 834e096c-3090-490f-8799-4e87aefcbb58,apparel.healthcare,available,98,13,7,,,
-0bb45cd7-a817-47e9-97db-a77c71e28c0d,apparel.help,available,98,13,7,,,
+0bb45cd7-a817-47e9-97db-a77c71e28c0d,apparel.help,sold,98,13,7,"Porkbun, LLC",12/12/2025 13:28,12/12/2026 23:59
 42b5f158-f1ab-45d5-8597-85efa45149e4,apparel.hiphop,available,98,13,7,,,
 ff53ddb8-92b1-4f4b-8b75-e75ade448ddc,apparel.hiv,available,98,13,7,,,
 1735a977-72fd-4465-8b35-bb3ec5a4914e,apparel.hockey,available,98,13,7,,,
@@ -374,7 +375,7 @@ d381f958-a450-4d85-bd24-a9c57e13ff3c,apparel.study,premium,98,13,7,,,
 31b9e549-74af-4e21-b17b-6a36232a6b29,apparel.sucks,premium,98,13,7,,,
 029cec39-b477-416d-b550-7eaee6af850a,apparel.supplies,sold,98,13,7,Porkbun LLC,27/11/2025 17:44,27/11/2026 17:44
 8bae817a-17ec-4c85-89ad-d6e5a3385874,apparel.supply,available,98,13,7,,,
-a466bbef-09c2-4f71-990b-a880ffc696ba,apparel.support,expiring,98,13,7,"GoDaddy.com, LLC",12/12/2024 02:46,12/12/2025 02:46
+a466bbef-09c2-4f71-990b-a880ffc696ba,apparel.support,sold,98,13,7,"GoDaddy.com, LLC",12/12/2024 02:46,12/12/2026 02:46
 f1b058a9-e5b2-4ae6-8618-418d9b9a71f2,apparel.surf,premium,98,13,7,,,
 e228b7c7-4327-4b59-b878-5842d97a114e,apparel.surgery,available,98,13,7,,,
 d6d72479-7099-48ad-b6ae-c90b7cc7adb1,apparel.sydney,available,98,13,7,,,
@@ -998,4 +999,3 @@ f4dea15d-05b0-4309-95ee-6ae5c4e3e744,boots.diet,available,60,16,5,,,
 9935d9c3-62a2-4c25-95c6-b6d07fdad6c1,boots.download,premium,60,16,5,,,
 1537429b-e169-4bb2-8273-a0a4f35e2d24,boots.education,available,60,16,5,,,
 782307a0-74d3-469a-866f-57b6b1fe479e,boots.energy,available,60,16,5,,,
-95b99362-8338-4fb5-8be2-3a0f92d3c656,boots.engineer,available,60,16,5,,,
