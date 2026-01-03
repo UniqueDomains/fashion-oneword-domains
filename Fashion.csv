@@ -131,7 +131,7 @@ bb99566c-7a98-417f-a6e5-e06c969c1311,apparel.dev,premium,98,13,7,,,
 d039df2a-4e78-451e-8ec9-3d48e7249e49,apparel.diet,available,98,13,7,,,
 71162fac-4fe8-4383-85ee-bafecc1b0bc6,apparel.digital,resell,98,13,7,"Sav.com, LLC - 26",30/08/2025 15:15,30/08/2026 15:15
 e7692144-9a2c-416e-9387-b99c8857cec5,apparel.direct,premium,98,13,7,,,
-eaba3eba-0f27-4904-bf52-1287ce359531,apparel.directory,expiring,98,13,7,"GoDaddy.com, LLC",18/12/2015 04:48,18/12/2025 04:48
+eaba3eba-0f27-4904-bf52-1287ce359531,apparel.directory,sold,98,13,7,"GoDaddy.com, LLC",18/12/2015 04:48,18/12/2026 04:48
 868249c0-185a-4e29-ab46-e9cab87f8c84,apparel.discount,premium,98,13,7,,,
 2ccb8905-eeec-4d3d-9ef9-40451dba16eb,apparel.diy,sold,98,13,7,GoDaddy,08/09/2025 10:45,08/09/2026 10:45
 dc5445a7-284c-4fe4-ae04-f56b74def5ee,apparel.doctor,available,98,13,7,,,
@@ -227,6 +227,7 @@ a3e9419f-cf21-4a50-89ba-11cfefe41539,apparel.ing,premium,98,13,7,,,
 ea75ffa6-948f-44f0-956e-c87ecc4bd007,apparel.insure,available,98,13,7,,,
 7088161e-8136-42f4-9762-a5a4675dc75b,apparel.investments,available,98,13,7,,,
 a7f89270-be73-410e-899f-6ceb5729ab62,apparel.io,sold,98,13,7,"GoDaddy.com, LLC",25/01/2015 00:30,25/01/2026 00:30
+68c62616-3870-4241-b263-c51aaf2dd939,apparel.it,expiring,98,13,7,,16/01/2009 09:59,16/01/2026 00:00
 26a2f296-928f-42aa-9fd7-8dba015740cc,apparel.jetzt,available,98,13,7,,,
 9cc4c93f-5262-4213-99c0-55a73c306e59,apparel.jewelry,available,98,13,7,,,
 a1d9dd5a-ae83-4942-8a25-1fd40d715ef2,apparel.juegos,available,98,13,7,,,
@@ -349,7 +350,7 @@ a43d37b6-2e1e-42b4-9046-bbb34ce60b75,apparel.sbs,premium,98,13,7,,,
 7f1a615c-9516-4307-a3dd-16d225eac64b,apparel.schule,available,98,13,7,,,
 e0867e39-b916-4715-9442-d77df1392780,apparel.science,premium,98,13,7,,,
 b07fb4b1-13d4-480d-873a-fdd566a1d762,apparel.security,available,98,13,7,,,
-1549565b-e4a9-4d50-9f2d-a54cdd1390b2,apparel.services,available,98,13,7,,,
+1549565b-e4a9-4d50-9f2d-a54cdd1390b2,apparel.services,resell,98,13,7,"GoDaddy.com, LLC",19/12/2025 12:24,19/12/2026 12:24
 7a8de660-6a00-49c2-9449-4c4b627b9452,apparel.sh,available,98,13,7,,,
 36a89595-53b5-4582-926d-695261be81e7,apparel.shiksha,available,98,13,7,,,
 abb1ed2e-44f3-4bbb-aa09-cec68d5af404,apparel.shoes,expired,98,13,7,Porkbun LLC,14/10/2024 22:33,14/10/2025 22:33
@@ -998,4 +999,3 @@ ab4f6426-b1ad-48c7-95d2-cd54a8b46b03,boots.diamonds,available,60,16,5,,,
 f4dea15d-05b0-4309-95ee-6ae5c4e3e744,boots.diet,available,60,16,5,,,
 028b6995-3c77-400a-aadc-9871f0c302cb,boots.directory,available,60,16,5,,,
 5ca3ae12-4940-45a1-95e7-9a5aa82f0170,boots.discount,premium,60,16,5,,,
-77f5b743-d5ee-476f-be7c-f0899b1e0149,boots.diy,premium,60,16,5,,,
