@@ -1,62 +1,62 @@
 
-# List of Fashion One Word Domain Names (9,284)
+# List of .FASHION One Word Domain Names (9,101)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/Fashion-oneword-domains.svg?style=flat)]() [![9,284 Fashion one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-9%2C284-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/fashion-oneword-domains.svg?style=flat)]() [![9,101 .FASHION one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-9%2C101-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
-We constantly sweep the web to catalog the highest potential Fashion one-word domains still available to buy.
+We constantly sweep the web to catalog the highest potential .FASHION one-word domains still available to buy.
 
-This dataset contains 1,000 Fashion one word domains with availability, attractiveness and demand scores.
+This dataset contains 9,101 .FASHION one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [Fashion one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Fashion-oneword-domains&utm_content=description.top) (9,284) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [.FASHION one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fashion-oneword-domains&utm_content=description.top) (9,101) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/Fashion-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/Fashion-oneword-domains/blob/main/Fashion.csv"><b>⬇️ CSV (1K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/Fashion-oneword-domains/blob/main/Fashion.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Fashion-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (9.28K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/fashion-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/fashion-oneword-domains/blob/main/fashion.csv"><b>⬇️ CSV (9.1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/fashion-oneword-domains/blob/main/fashion.json"><b>⬇️ JSON (9.1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fashion-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (9.1K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain              | Status    | Attract. | Demand | Length | Registrar                                                          | Created          | Expires          |
-| ------------------- | --------- | -------- | ------ | ------ | ------------------------------------------------------------------ | ---------------- | ---------------- |
-| clothing.app        | premium   | 68       | 76%    | 8      |                                                                    |                  |                  |
-| clothing.at         | resell    | 68       | 76%    | 8      | EuroDNS SA ( https://nic.at/registrar/421 )                        |                  |                  |
-| clothing.dev        | premium   | 68       | 76%    | 8      |                                                                    |                  |                  |
-| clothing.expert     | premium   | 68       | 76%    | 8      |                                                                    |                  |                  |
-| clothing.io         | resell    | 68       | 76%    | 8      | Dynadot Inc                                                        | 06/06/2013 00:15 | 06/06/2026 00:15 |
-| clothing.it         | expiring  | 68       | 76%    | 8      |                                                                    | 30/01/1997 00:00 | 03/08/2025 00:00 |
-| clothing.me         | expiring  | 68       | 76%    | 8      | GoDaddy.com, LLC                                                   | 09/07/2008 17:02 | 09/07/2025 17:02 |
-| clothing.online     | premium   | 68       | 76%    | 8      |                                                                    |                  |                  |
-| clothing.site       | premium   | 68       | 76%    | 8      |                                                                    |                  |                  |
-| clothing.so         | available | 68       | 76%    | 8      |                                                                    |                  |                  |
-| clothing.space      | premium   | 68       | 76%    | 8      |                                                                    |                  |                  |
-| clothing.store      | premium   | 68       | 76%    | 8      |                                                                    |                  |                  |
-| clothing.tech       | premium   | 68       | 76%    | 8      |                                                                    |                  |                  |
-| clothing.us         | resell    | 68       | 76%    | 8      | GoDaddy.com, LLC                                                   | 24/04/2002 14:01 | 23/04/2026 23:59 |
-| clothing.zone       | premium   | 68       | 76%    | 8      |                                                                    |                  |                  |
-| apparel.ac          | available | 98       | 13%    | 7      |                                                                    |                  |                  |
-| apparel.academy     | available | 98       | 13%    | 7      |                                                                    |                  |                  |
-| apparel.accountant  | premium   | 98       | 13%    | 7      |                                                                    |                  |                  |
-| apparel.accountants | available | 98       | 13%    | 7      |                                                                    |                  |                  |
-| apparel.actor       | sold      | 98       | 13%    | 7      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | 19/08/2025 15:15 | 19/08/2026 15:15 |
-| apparel.adult       | available | 98       | 13%    | 7      |                                                                    |                  |                  |
-| apparel.ag          | available | 98       | 13%    | 7      |                                                                    |                  |                  |
-| apparel.agency      | resell    | 98       | 13%    | 7      | Sav.com, LLC - 14                                                  | 26/08/2025 15:15 | 26/08/2026 15:15 |
-| apparel.airforce    | available | 98       | 13%    | 7      |                                                                    |                  |                  |
-| apparel.apartments  | available | 98       | 13%    | 7      |                                                                    |                  |                  |
-| apparel.archi       | available | 98       | 13%    | 7      |                                                                    |                  |                  |
-| apparel.army        | available | 98       | 13%    | 7      |                                                                    |                  |                  |
-| apparel.art         | sold      | 98       | 13%    | 7      | Go Daddy, LLC                                                      | 08/12/2021 22:20 | 08/12/2026 23:59 |
-| apparel.asia        | resell    | 98       | 13%    | 7      | GoDaddy.com, LLC                                                   | 04/07/2008 07:02 | 04/07/2026 07:02 |
-| apparel.associates  | available | 98       | 13%    | 7      |                                                                    |                  |                  |
+| Domain             | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
+| ------------------ | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| aaa.fashion        | premium   | 70       | 34%    | 3      |           |         |         |
+| aaron.fashion      | premium   | 88       | 27%    | 5      |           |         |         |
+| abactinal.fashion  | available | 50       | 1%     | 9      |           |         |         |
+| abaft.fashion      | available | 43       | 2%     | 5      |           |         |         |
+| abandoned.fashion  | available | 58       | 7%     | 9      |           |         |         |
+| abashed.fashion    | available | 60       | 2%     | 7      |           |         |         |
+| abasic.fashion     | available | 54       | 2%     | 6      |           |         |         |
+| abatable.fashion   | available | 54       | 1%     | 8      |           |         |         |
+| abatic.fashion     | available | 54       | 2%     | 6      |           |         |         |
+| abaxial.fashion    | available | 54       | 2%     | 7      |           |         |         |
+| abbatial.fashion   | available | 50       | 1%     | 8      |           |         |         |
+| abdicable.fashion  | available | 50       | 1%     | 9      |           |         |         |
+| abdominal.fashion  | available | 82       | 1%     | 9      |           |         |         |
+| abdominous.fashion | available | 56       | 1%     | 10     |           |         |         |
+| abducens.fashion   | available | 54       | 1%     | 8      |           |         |         |
+| abducent.fashion   | available | 68       | 1%     | 8      |           |         |         |
+| abducting.fashion  | available | 50       | 1%     | 9      |           |         |         |
+| abenaki.fashion    | available | 82       | 3%     | 7      |           |         |         |
+| aberdonian.fashion | available | 68       | 1%     | 10     |           |         |         |
+| aberrant.fashion   | available | 74       | 7%     | 8      |           |         |         |
+| abeyant.fashion    | available | 56       | 2%     | 7      |           |         |         |
+| abhorrent.fashion  | available | 54       | 1%     | 9      |           |         |         |
+| abide.fashion      | available | 94       | 15%    | 5      |           |         |         |
+| abiding.fashion    | available | 106      | 5%     | 7      |           |         |         |
+| abient.fashion     | available | 54       | 1%     | 6      |           |         |         |
+| ability.fashion    | available | 92       | 14%    | 7      |           |         |         |
+| abit.fashion       | available | 66       | 12%    | 5      |           |         |         |
+| abject.fashion     | available | 94       | 8%     | 6      |           |         |         |
+| abkhas.fashion     | available | 68       | 1%     | 6      |           |         |         |
+| abkhasian.fashion  | available | 78       | 1%     | 9      |           |         |         |
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/Fashion-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/Fashion-oneword-domains/blob/main/Fashion.csv"><b>⬇️ CSV (1K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/Fashion-oneword-domains/blob/main/Fashion.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Fashion-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (9.28K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/fashion-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/fashion-oneword-domains/blob/main/fashion.csv"><b>⬇️ CSV (9.1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/fashion-oneword-domains/blob/main/fashion.json"><b>⬇️ JSON (9.1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fashion-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (9.1K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -88,20 +88,20 @@ If you want to search & filters the complete database of [Fashion one word domai
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,942       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 65,054       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,876    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,936       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 65,053       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,598,881    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
 | -------------- | ------------ | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| .AC            | 8,430        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
+| .AC            | 8,428        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
 | .ACADEMY       | 7,791        | [Github](https://github.com/UniqueDomains/academy-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
 | .ACCOUNTANT    | 9,873        | [Github](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
 | .ACCOUNTANTS   | 9,765        | [Github](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
 | .ACTOR         | 9,695        | [Github](https://github.com/UniqueDomains/actor-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
 | .ADULT         | 9,740        | [Github](https://github.com/UniqueDomains/adult-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.link)         |
-| .AG            | 8,602        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
+| .AG            | 8,603        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
 | .AGENCY        | 6,948        | [Github](https://github.com/UniqueDomains/agency-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
 | .AI            | 54,017       | [Github](https://github.com/UniqueDomains/ai-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ai-oneword-domains&utm_content=table.link)            |
 | .AIRFORCE      | 9,849        | [Github](https://github.com/UniqueDomains/airforce-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.link)      |
@@ -189,7 +189,7 @@ If you want to search & filters the complete database of [Fashion one word domai
 | .CN            | 0            | [Github](https://github.com/UniqueDomains/cn-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=cn-oneword-domains&utm_content=table.link)            |
 | .CO.COM        | 0            | [Github](https://github.com/UniqueDomains/co.com-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=co.com-oneword-domains&utm_content=table.link)        |
 | .CO.UK         | 0            | [Github](https://github.com/UniqueDomains/co.uk-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=co.uk-oneword-domains&utm_content=table.link)         |
-| .CO            | 49,854       | [Github](https://github.com/UniqueDomains/co-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=co-oneword-domains&utm_content=table.link)            |
+| .CO            | 49,856       | [Github](https://github.com/UniqueDomains/co-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=co-oneword-domains&utm_content=table.link)            |
 | .COACH         | 8,444        | [Github](https://github.com/UniqueDomains/coach-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=coach-oneword-domains&utm_content=table.link)         |
 | .CODES         | 8,421        | [Github](https://github.com/UniqueDomains/codes-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=codes-oneword-domains&utm_content=table.link)         |
 | .COFFEE        | 8,006        | [Github](https://github.com/UniqueDomains/coffee-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=coffee-oneword-domains&utm_content=table.link)        |
@@ -223,7 +223,7 @@ If you want to search & filters the complete database of [Fashion one word domai
 | .DATING        | 9,317        | [Github](https://github.com/UniqueDomains/dating-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=dating-oneword-domains&utm_content=table.link)        |
 | .DAY           | 9,317        | [Github](https://github.com/UniqueDomains/day-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=day-oneword-domains&utm_content=table.link)           |
 | .DE.COM        | 0            | [Github](https://github.com/UniqueDomains/de.com-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=de.com-oneword-domains&utm_content=table.link)        |
-| .DE            | 2,839        | [Github](https://github.com/UniqueDomains/de-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=de-oneword-domains&utm_content=table.link)            |
+| .DE            | 2,838        | [Github](https://github.com/UniqueDomains/de-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=de-oneword-domains&utm_content=table.link)            |
 | .DEAL          | 7,532        | [Github](https://github.com/UniqueDomains/deal-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=deal-oneword-domains&utm_content=table.link)          |
 | .DEALER        | 9,917        | [Github](https://github.com/UniqueDomains/dealer-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=dealer-oneword-domains&utm_content=table.link)        |
 | .DEALS         | 8,900        | [Github](https://github.com/UniqueDomains/deals-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=deals-oneword-domains&utm_content=table.link)         |
@@ -258,7 +258,7 @@ If you want to search & filters the complete database of [Fashion one word domai
 | .ESQ           | 9,886        | [Github](https://github.com/UniqueDomains/esq-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=esq-oneword-domains&utm_content=table.link)           |
 | .ESTATE        | 9,068        | [Github](https://github.com/UniqueDomains/estate-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=estate-oneword-domains&utm_content=table.link)        |
 | .EU.COM        | 0            | [Github](https://github.com/UniqueDomains/eu.com-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=eu.com-oneword-domains&utm_content=table.link)        |
-| .EU            | 2,311        | [Github](https://github.com/UniqueDomains/eu-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=eu-oneword-domains&utm_content=table.link)            |
+| .EU            | 2,312        | [Github](https://github.com/UniqueDomains/eu-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=eu-oneword-domains&utm_content=table.link)            |
 | .EVENTS        | 8,001        | [Github](https://github.com/UniqueDomains/events-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=events-oneword-domains&utm_content=table.link)        |
 | .EXCHANGE      | 8,516        | [Github](https://github.com/UniqueDomains/exchange-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=exchange-oneword-domains&utm_content=table.link)      |
 | .EXPERT        | 80,293       | [Github](https://github.com/UniqueDomains/expert-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expert-oneword-domains&utm_content=table.link)        |
@@ -357,7 +357,7 @@ If you want to search & filters the complete database of [Fashion one word domai
 | .INVESTMENTS   | 9,334        | [Github](https://github.com/UniqueDomains/investments-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=investments-oneword-domains&utm_content=table.link)   |
 | .IO            | 54,616       | [Github](https://github.com/UniqueDomains/io-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=io-oneword-domains&utm_content=table.link)            |
 | .IRISH         | 9,351        | [Github](https://github.com/UniqueDomains/irish-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=irish-oneword-domains&utm_content=table.link)         |
-| .IT            | 13,791       | [Github](https://github.com/UniqueDomains/it-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=it-oneword-domains&utm_content=table.link)            |
+| .IT            | 13,793       | [Github](https://github.com/UniqueDomains/it-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=it-oneword-domains&utm_content=table.link)            |
 | .JETZT         | 9,413        | [Github](https://github.com/UniqueDomains/jetzt-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=jetzt-oneword-domains&utm_content=table.link)         |
 | .JEWELRY       | 9,570        | [Github](https://github.com/UniqueDomains/jewelry-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=jewelry-oneword-domains&utm_content=table.link)       |
 | .JPN.COM       | 0            | [Github](https://github.com/UniqueDomains/jpn.com-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=jpn.com-oneword-domains&utm_content=table.link)       |
@@ -401,7 +401,7 @@ If you want to search & filters the complete database of [Fashion one word domai
 | .MARKETING     | 8,144        | [Github](https://github.com/UniqueDomains/marketing-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=marketing-oneword-domains&utm_content=table.link)     |
 | .MARKETS       | 2            | [Github](https://github.com/UniqueDomains/markets-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=markets-oneword-domains&utm_content=table.link)       |
 | .MBA           | 9,369        | [Github](https://github.com/UniqueDomains/mba-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mba-oneword-domains&utm_content=table.link)           |
-| .ME            | 59,523       | [Github](https://github.com/UniqueDomains/me-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=me-oneword-domains&utm_content=table.link)            |
+| .ME            | 59,526       | [Github](https://github.com/UniqueDomains/me-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=me-oneword-domains&utm_content=table.link)            |
 | .MEDIA         | 7,038        | [Github](https://github.com/UniqueDomains/media-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=media-oneword-domains&utm_content=table.link)         |
 | .MELBOURNE     | 9,688        | [Github](https://github.com/UniqueDomains/melbourne-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=melbourne-oneword-domains&utm_content=table.link)     |
 | .MEME          | 9,603        | [Github](https://github.com/UniqueDomains/meme-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=meme-oneword-domains&utm_content=table.link)          |
@@ -421,7 +421,7 @@ If you want to search & filters the complete database of [Fashion one word domai
 | .MOV           | 9,820        | [Github](https://github.com/UniqueDomains/mov-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mov-oneword-domains&utm_content=table.link)           |
 | .MOVIE         | 9,546        | [Github](https://github.com/UniqueDomains/movie-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=movie-oneword-domains&utm_content=table.link)         |
 | .MUSIC         | 9,584        | [Github](https://github.com/UniqueDomains/music-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=music-oneword-domains&utm_content=table.link)         |
-| .MX            | 7,247        | [Github](https://github.com/UniqueDomains/mx-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mx-oneword-domains&utm_content=table.link)            |
+| .MX            | 7,246        | [Github](https://github.com/UniqueDomains/mx-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mx-oneword-domains&utm_content=table.link)            |
 | .MY            | 7,525        | [Github](https://github.com/UniqueDomains/my-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=my-oneword-domains&utm_content=table.link)            |
 | .NAGOYA        | 13           | [Github](https://github.com/UniqueDomains/nagoya-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=nagoya-oneword-domains&utm_content=table.link)        |
 | .NAME          | 8,084        | [Github](https://github.com/UniqueDomains/name-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=name-oneword-domains&utm_content=table.link)          |
@@ -515,7 +515,7 @@ If you want to search & filters the complete database of [Fashion one word domai
 | .SERVICES      | 7,489        | [Github](https://github.com/UniqueDomains/services-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=services-oneword-domains&utm_content=table.link)      |
 | .SEX           | 0            | [Github](https://github.com/UniqueDomains/sex-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=sex-oneword-domains&utm_content=table.link)           |
 | .SEXY          | 9,733        | [Github](https://github.com/UniqueDomains/sexy-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=sexy-oneword-domains&utm_content=table.link)          |
-| .SH            | 7,646        | [Github](https://github.com/UniqueDomains/sh-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=sh-oneword-domains&utm_content=table.link)            |
+| .SH            | 7,645        | [Github](https://github.com/UniqueDomains/sh-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=sh-oneword-domains&utm_content=table.link)            |
 | .SHIKSHA       | 9,868        | [Github](https://github.com/UniqueDomains/shiksha-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=shiksha-oneword-domains&utm_content=table.link)       |
 | .SHOES         | 9,492        | [Github](https://github.com/UniqueDomains/shoes-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=shoes-oneword-domains&utm_content=table.link)         |
 | .SHOP          | 463          | [Github](https://github.com/UniqueDomains/shop-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=shop-oneword-domains&utm_content=table.link)          |
@@ -584,10 +584,10 @@ If you want to search & filters the complete database of [Fashion one word domai
 | .UNIVERSITY    | 9,092        | [Github](https://github.com/UniqueDomains/university-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=university-oneword-domains&utm_content=table.link)    |
 | .UNO           | 9,573        | [Github](https://github.com/UniqueDomains/uno-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=uno-oneword-domains&utm_content=table.link)           |
 | .US.COM        | 0            | [Github](https://github.com/UniqueDomains/us.com-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=us.com-oneword-domains&utm_content=table.link)        |
-| .US            | 55,593       | [Github](https://github.com/UniqueDomains/us-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=us-oneword-domains&utm_content=table.link)            |
+| .US            | 55,595       | [Github](https://github.com/UniqueDomains/us-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=us-oneword-domains&utm_content=table.link)            |
 | .VACATIONS     | 9,622        | [Github](https://github.com/UniqueDomains/vacations-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=vacations-oneword-domains&utm_content=table.link)     |
 | .VANA          | 9,943        | [Github](https://github.com/UniqueDomains/vana-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=vana-oneword-domains&utm_content=table.link)          |
-| .VC            | 7,237        | [Github](https://github.com/UniqueDomains/vc-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=vc-oneword-domains&utm_content=table.link)            |
+| .VC            | 7,236        | [Github](https://github.com/UniqueDomains/vc-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=vc-oneword-domains&utm_content=table.link)            |
 | .VEGAS         | 9,037        | [Github](https://github.com/UniqueDomains/vegas-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=vegas-oneword-domains&utm_content=table.link)         |
 | .VENTURES      | 8,126        | [Github](https://github.com/UniqueDomains/ventures-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ventures-oneword-domains&utm_content=table.link)      |
 | .VET           | 9,271        | [Github](https://github.com/UniqueDomains/vet-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=vet-oneword-domains&utm_content=table.link)           |
@@ -630,25 +630,25 @@ If you want to search & filters the complete database of [Fashion one word domai
 | Name               | Total Number | Extract                                                                           | Full Database                                                                                                                                            |
 | ------------------ | ------------ | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Agriculture        | 24,666       | [Github](https://github.com/UniqueDomains/Agriculture-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Agriculture-oneword-domains&utm_content=table.link)            |
-| Arts               | 14,996       | [Github](https://github.com/UniqueDomains/Arts-oneword-domains)                   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Arts-oneword-domains&utm_content=table.link)                   |
+| Arts               | 14,997       | [Github](https://github.com/UniqueDomains/Arts-oneword-domains)                   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Arts-oneword-domains&utm_content=table.link)                   |
 | Automotive         | 21,013       | [Github](https://github.com/UniqueDomains/Automotive-oneword-domains)             | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Automotive-oneword-domains&utm_content=table.link)             |
-| Aviation           | 24,219       | [Github](https://github.com/UniqueDomains/Aviation-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Aviation-oneword-domains&utm_content=table.link)               |
+| Aviation           | 24,220       | [Github](https://github.com/UniqueDomains/Aviation-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Aviation-oneword-domains&utm_content=table.link)               |
 | Banking            | 38,590       | [Github](https://github.com/UniqueDomains/Banking-oneword-domains)                | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Banking-oneword-domains&utm_content=table.link)                |
 | Business           | 23,576       | [Github](https://github.com/UniqueDomains/Business-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Business-oneword-domains&utm_content=table.link)               |
 | Construction       | 25,701       | [Github](https://github.com/UniqueDomains/Construction-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Construction-oneword-domains&utm_content=table.link)           |
 | Education          | 19,262       | [Github](https://github.com/UniqueDomains/Education-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Education-oneword-domains&utm_content=table.link)              |
 | Energy             | 18,859       | [Github](https://github.com/UniqueDomains/Energy-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Energy-oneword-domains&utm_content=table.link)                 |
 | Engineering        | 24,295       | [Github](https://github.com/UniqueDomains/Engineering-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Engineering-oneword-domains&utm_content=table.link)            |
-| Entertainment      | 18,903       | [Github](https://github.com/UniqueDomains/Entertainment-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Entertainment-oneword-domains&utm_content=table.link)          |
+| Entertainment      | 18,904       | [Github](https://github.com/UniqueDomains/Entertainment-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Entertainment-oneword-domains&utm_content=table.link)          |
 | Environment        | 23,544       | [Github](https://github.com/UniqueDomains/Environment-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Environment-oneword-domains&utm_content=table.link)            |
 | Fashion            | 9,284        | [Github](https://github.com/UniqueDomains/Fashion-oneword-domains)                | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Fashion-oneword-domains&utm_content=table.link)                |
-| Finance            | 34,047       | [Github](https://github.com/UniqueDomains/Finance-oneword-domains)                | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Finance-oneword-domains&utm_content=table.link)                |
+| Finance            | 34,048       | [Github](https://github.com/UniqueDomains/Finance-oneword-domains)                | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Finance-oneword-domains&utm_content=table.link)                |
 | Food and Beverage  | 19,461       | [Github](https://github.com/UniqueDomains/Food%20and%20Beverage-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Food%20and%20Beverage-oneword-domains&utm_content=table.link)  |
-| General            | 37,058       | [Github](https://github.com/UniqueDomains/General-oneword-domains)                | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=General-oneword-domains&utm_content=table.link)                |
-| Geography          | 16,959       | [Github](https://github.com/UniqueDomains/Geography-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Geography-oneword-domains&utm_content=table.link)              |
-| Health and Fitness | 26,333       | [Github](https://github.com/UniqueDomains/Health%20and%20Fitness-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Health%20and%20Fitness-oneword-domains&utm_content=table.link) |
+| General            | 37,060       | [Github](https://github.com/UniqueDomains/General-oneword-domains)                | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=General-oneword-domains&utm_content=table.link)                |
+| Geography          | 16,960       | [Github](https://github.com/UniqueDomains/Geography-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Geography-oneword-domains&utm_content=table.link)              |
+| Health and Fitness | 26,334       | [Github](https://github.com/UniqueDomains/Health%20and%20Fitness-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Health%20and%20Fitness-oneword-domains&utm_content=table.link) |
 | Healthcare         | 25,974       | [Github](https://github.com/UniqueDomains/Healthcare-oneword-domains)             | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Healthcare-oneword-domains&utm_content=table.link)             |
-| Hospitality        | 28,535       | [Github](https://github.com/UniqueDomains/Hospitality-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Hospitality-oneword-domains&utm_content=table.link)            |
+| Hospitality        | 28,536       | [Github](https://github.com/UniqueDomains/Hospitality-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Hospitality-oneword-domains&utm_content=table.link)            |
 | Humanities         | 15,006       | [Github](https://github.com/UniqueDomains/Humanities-oneword-domains)             | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Humanities-oneword-domains&utm_content=table.link)             |
 | Insurance          | 22,374       | [Github](https://github.com/UniqueDomains/Insurance-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Insurance-oneword-domains&utm_content=table.link)              |
 | Law                | 23,970       | [Github](https://github.com/UniqueDomains/Law-oneword-domains)                    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Law-oneword-domains&utm_content=table.link)                    |
@@ -656,26 +656,26 @@ If you want to search & filters the complete database of [Fashion one word domai
 | Mathematics        | 16,775       | [Github](https://github.com/UniqueDomains/Mathematics-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Mathematics-oneword-domains&utm_content=table.link)            |
 | Media              | 24,212       | [Github](https://github.com/UniqueDomains/Media-oneword-domains)                  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Media-oneword-domains&utm_content=table.link)                  |
 | Medicine           | 17,294       | [Github](https://github.com/UniqueDomains/Medicine-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Medicine-oneword-domains&utm_content=table.link)               |
-| Military           | 19,381       | [Github](https://github.com/UniqueDomains/Military-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Military-oneword-domains&utm_content=table.link)               |
-| Mining             | 15,515       | [Github](https://github.com/UniqueDomains/Mining-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Mining-oneword-domains&utm_content=table.link)                 |
-| Pharmaceuticals    | 10,449       | [Github](https://github.com/UniqueDomains/Pharmaceuticals-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Pharmaceuticals-oneword-domains&utm_content=table.link)        |
+| Military           | 19,383       | [Github](https://github.com/UniqueDomains/Military-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Military-oneword-domains&utm_content=table.link)               |
+| Mining             | 15,517       | [Github](https://github.com/UniqueDomains/Mining-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Mining-oneword-domains&utm_content=table.link)                 |
+| Pharmaceuticals    | 10,450       | [Github](https://github.com/UniqueDomains/Pharmaceuticals-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Pharmaceuticals-oneword-domains&utm_content=table.link)        |
 | Politics           | 40,136       | [Github](https://github.com/UniqueDomains/Politics-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Politics-oneword-domains&utm_content=table.link)               |
 | Real Estate        | 20,747       | [Github](https://github.com/UniqueDomains/Real%20Estate-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Real%20Estate-oneword-domains&utm_content=table.link)          |
-| Religion           | 19,726       | [Github](https://github.com/UniqueDomains/Religion-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Religion-oneword-domains&utm_content=table.link)               |
-| Retail             | 26,980       | [Github](https://github.com/UniqueDomains/Retail-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Retail-oneword-domains&utm_content=table.link)                 |
-| Science            | 14,512       | [Github](https://github.com/UniqueDomains/Science-oneword-domains)                | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Science-oneword-domains&utm_content=table.link)                |
+| Religion           | 19,727       | [Github](https://github.com/UniqueDomains/Religion-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Religion-oneword-domains&utm_content=table.link)               |
+| Retail             | 26,981       | [Github](https://github.com/UniqueDomains/Retail-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Retail-oneword-domains&utm_content=table.link)                 |
+| Science            | 14,513       | [Github](https://github.com/UniqueDomains/Science-oneword-domains)                | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Science-oneword-domains&utm_content=table.link)                |
 | Sports             | 15,804       | [Github](https://github.com/UniqueDomains/Sports-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Sports-oneword-domains&utm_content=table.link)                 |
 | Technology         | 24,401       | [Github](https://github.com/UniqueDomains/Technology-oneword-domains)             | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Technology-oneword-domains&utm_content=table.link)             |
-| Telecommunications | 29,045       | [Github](https://github.com/UniqueDomains/Telecommunications-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Telecommunications-oneword-domains&utm_content=table.link)     |
+| Telecommunications | 29,047       | [Github](https://github.com/UniqueDomains/Telecommunications-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Telecommunications-oneword-domains&utm_content=table.link)     |
 | Transportation     | 20,535       | [Github](https://github.com/UniqueDomains/Transportation-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Transportation-oneword-domains&utm_content=table.link)         |
 | Travel             | 24,290       | [Github](https://github.com/UniqueDomains/Travel-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)                 |
 | Utilities          | 19,860       | [Github](https://github.com/UniqueDomains/Utilities-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)              |
 
-# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Fashion-oneword-domains&utm_content=description.bottom)
+# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fashion-oneword-domains&utm_content=description.bottom)
 
 Access the most complete and advanced database of one word domains.
 
 Spot short, memorable domain names that earn trust, dominate search engines, and appreciate over time.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/Fashion-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Fashion-oneword-domains&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/fashion-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=fashion-oneword-domains&utm_content=description.image)
         
