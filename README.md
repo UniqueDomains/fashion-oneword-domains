@@ -76,13 +76,13 @@ print(df.head())
 | strategy.fashion  | available | $44.98    | —             | 74             | 43     | 8      | namecheap                                           |
 | domain.fashion    | resell    | —         | —             | 80             | 64     | 6      | Sav.com LLC                                         |
 | clear.fashion     | premium   | $250      | $45.99        | 90             | 49     | 5      | name.com                                            |
-| content.fashion   | available | $42.99    | $45.99        | 138            | 40     | 7      | name.com                                            |
+| content.fashion   | available | $42.99    | $45.99        | 138            | 39     | 7      | name.com                                            |
 | fantastic.fashion | resell    | —         | —             | 88             | 62     | 9      | Spaceship, Inc.                                     |
 | travel.fashion    | premium   | $5,200    | $31.20        | 115            | 48     | 6      | namecheap                                           |
-| property.fashion  | available | $44.98    | —             | 90             | 39     | 8      | namecheap                                           |
+| gather.fashion    | available | $42.99    | $45.99        | 96             | 39     | 6      | name.com                                            |
 | cloud.fashion     | resell    | —         | —             | 70             | 59     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | big.fashion       | premium   | $100      | $45.99        | 88             | 47     | 3      | name.com                                            |
-| gather.fashion    | available | $42.99    | $45.99        | 96             | 38     | 6      | name.com                                            |
+| property.fashion  | available | $44.98    | —             | 90             | 39     | 8      | namecheap                                           |
 | search.fashion    | resell    | —         | —             | 70             | 57     | 6      | GoDaddy.com, LLC                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
