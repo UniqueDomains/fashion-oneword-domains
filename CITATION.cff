@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it using the metadata below."
-title: "Available .FASHION One-Word Domains"
+title: "Fashion One-Word Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
 version: "2026-04-29"
 date-released: "2026-04-29"
-url: "https://unique.domains/domains/tld/fashion"
+url: "https://unique.domains/domains/sector/Fashion"
 repository-code: "https://github.com/UniqueDomains/fashion-oneword-domains"
 license: "See LICENSE"
-abstract: "Daily-updated public extract of available and resale .fashion one-word domains from Unique Domains."
+abstract: "Daily-updated dataset of fashion one-word domains from Unique Domains."
