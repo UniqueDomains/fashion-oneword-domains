@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .fashion one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,023 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,023 domains · **Median ask:** $95.70 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,023 domains · **Median ask:** $95.61 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-14
+**Last updated:** 2026-07-07
 **Canonical page:** `https://unique.domains/domains/tld/fashion`
 **Best for:** founders, investors, studios
 
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FASHION one-word doma
 
 ### Files
 
-- `fashion.csv` — public CSV extract (1,000 rows)
-- `fashion.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `fashion.csv`, public CSV extract (1,000 rows)
+- `fashion.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| reset.fashion     | available | $32.49    | $32.49        | 70             | 68     | 5      | namesilo                                            |
-| sovereign.fashion | resell    | $42.99    | —             | 86             | 41     | 9      | West263 International Limited                       |
-| ford.fashion      | premium   | $47.20    | $29.50        | 82             | 71     | 4      | namesilo                                            |
-| Skype.fashion     | available | $32.49    | $32.49        | 96             | 66     | 5      | namesilo                                            |
-| united.fashion    | resell    | $42.99    | —             | 74             | 41     | 6      | West263 International Limited                       |
-| BBC.fashion       | premium   | $242      | $29.50        | 94             | 68     | 3      | namesilo                                            |
-| contact.fashion   | available | $32.49    | $32.49        | 102            | 41     | 7      | namesilo                                            |
-| book.fashion      | resell    | —         | —             | 82             | 53     | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| get.fashion       | premium   | $5,000    | —             | 88             | 64     | 3      | name.com                                            |
-| gaming.fashion    | available | $32.49    | $32.49        | 76             | 38     | 6      | namesilo                                            |
-| search.fashion    | resell    | —         | —             | 70             | 53     | 6      | GoDaddy.com, LLC                                    |
-| lively.fashion    | premium   | $47.20    | $29.50        | 70             | 64     | 6      | namesilo                                            |
-| apply.fashion     | available | $32.49    | $32.49        | 94             | 34     | 5      | namesilo                                            |
-| game.fashion      | resell    | —         | —             | 120            | 50     | 4      | Spaceship, Inc.                                     |
-| ant.fashion       | premium   | $250      | —             | 86             | 62     | 3      | name.com                                            |
-| soft.fashion      | available | $42.99    | $45.99        | 124            | 33     | 4      | name.com                                            |
-| delta.fashion     | resell    | —         | —             | 74             | 44     | 5      | GoDaddy.com, LLC                                    |
-| max.fashion       | premium   | $500      | —             | 70             | 56     | 3      | name.com                                            |
-| database.fashion  | available | $45.98    | —             | 99             | 32     | 8      | namecheap                                           |
-| creator.fashion   | resell    | —         | —             | 70             | 44     | 7      | eDomains LLC                                        |
+| heck.fashion      | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                                            |
+| united.fashion    | resell    | $42.99    | —             | high           | medium | 6      | West263 International Limited                       |
+| aaa.fashion       | premium   | $104      | $31.20        | high           | medium | 3      | namecheap                                           |
+| loud.fashion      | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                                            |
+| sovereign.fashion | resell    | $42.99    | —             | high           | medium | 9      | West263 International Limited                       |
+| ant.fashion       | premium   | $250      | —             | high           | medium | 3      | name.com                                            |
+| navy.fashion      | available | $45.98    | —             | high           | low    | 4      | namecheap                                           |
+| book.fashion      | resell    | —         | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| BBC.fashion       | premium   | $242      | $29.50        | high           | medium | 3      | namesilo                                            |
+| soft.fashion      | available | $42.99    | $45.99        | high           | low    | 4      | name.com                                            |
+| game.fashion      | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                     |
+| cod.fashion       | premium   | $242      | $29.50        | high           | low    | 3      | namesilo                                            |
+| upon.fashion      | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                                            |
+| delta.fashion     | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC                                    |
+| dig.fashion       | premium   | $854      | $29.50        | high           | low    | 3      | namesilo                                            |
+| vain.fashion      | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                                            |
+| pride.fashion     | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                     |
+| due.fashion       | premium   | $250      | —             | high           | low    | 3      | name.com                                            |
+| xvii.fashion      | available | $42.99    | $45.99        | medium         | low    | 4      | name.com                                            |
+| doctor.fashion    | resell    | —         | —             | high           | low    | 6      | West263 International Limited                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .fashion extension. That makes the set highly specific: each option pairs a single term with a fashion-focused TLD, rather than relying on a broader extension. In this selection, the median ask is 82.93, so price is not the main differentiator by itself. The better filter is fit. Terms like explore.fashion, dynamic.fashion, and gather.fashion feel broad and brandable, while names such as pizzeria.fashion or pita.fashion may create a weaker category match. When comparing these domains, weigh semantic fit, memorability, and likely renewal burden before treating a low ask as a clear buy signal.
+This set covers 12,023 one-word domain names registered under .fashion, with a median asking price near $96. Names range from short lifestyle phrases — chaitea.fashion, herbaltea.fashion, toneup.fashion — to compact single words such as out.fashion, half.fashion, and okay.fashion. Because .fashion is a themed extension, these domains suit apparel, beauty, wellness, and lifestyle brands looking for a short, memorable name without competing for scarce .com options.
 
-- All names in this selection use the .fashion TLD
-- Median ask across the set is 82.93
-- Broad words tend to be more flexible and brandable
-- Weak keyword-to-TLD fit can reduce buyer confidence
+- 12,023 one-word .fashion domain names in this selection
+- Median asking price near $96 across the set
+- Examples include out.fashion, half.fashion, and okay.fashion
+- Updated daily to reflect current asking prices
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FASHION One-Word Domains*. Version 2026-06-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FASHION One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
