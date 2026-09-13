@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fashion one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,664 domains · **Median ask:** $65.49 · **High-demand under $2,500:** 13
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/fashion`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| design.fashion    | available | —         | —             | high           | medium | 6      | —                                                   |
 | heck.fashion      | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                                            |
 | united.fashion    | resell    | $42.99    | —             | high           | medium | 6      | West263 International Limited                       |
 | aaa.fashion       | premium   | $104      | $31.20        | high           | medium | 3      | namecheap                                           |
@@ -78,12 +79,11 @@ print(df.head())
 | azo.fashion       | premium   | $47.20    | $29.50        | low            | low    | 3      | namesilo                                            |
 | soft.fashion      | available | $42.99    | $45.99        | high           | low    | 4      | name.com                                            |
 | game.fashion      | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                     |
-| BBC.fashion       | premium   | $242      | $29.50        | high           | medium | 3      | namesilo                                            |
+| BBC.fashion       | premium   | $242      | $29.50        | medium         | medium | 3      | namesilo                                            |
 | trey.fashion      | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                                            |
 | delta.fashion     | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC                                    |
 | cod.fashion       | premium   | $242      | $29.50        | high           | low    | 3      | namesilo                                            |
 | upon.fashion      | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                                            |
-| pride.fashion     | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FASHION One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FASHION One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
