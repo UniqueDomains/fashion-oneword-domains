@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fashion one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,544 domains · **Median ask:** $63.52 · **High-demand under $2,500:** 14
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/tld/fashion`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| design.fashion    | available | —         | —             | high           | medium | 6      | —                                                   |
 | heck.fashion      | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                                            |
 | united.fashion    | resell    | $42.99    | —             | high           | medium | 6      | West263 International Limited                       |
 | aaa.fashion       | premium   | $104      | $31.20        | high           | medium | 3      | namecheap                                           |
@@ -83,7 +84,6 @@ print(df.head())
 | delta.fashion     | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC                                    |
 | cod.fashion       | premium   | $242      | $29.50        | high           | low    | 3      | namesilo                                            |
 | upon.fashion      | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                                            |
-| pride.fashion     | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FASHION One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FASHION One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
