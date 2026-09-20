@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fashion one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,234 domains · **Median ask:** $61.09 · **High-demand under $2,500:** 14
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/fashion`
 **Best for:** founders, investors, studios
 
@@ -78,10 +78,10 @@ print(df.head())
 | azo.fashion       | premium   | $47.20    | $29.50        | low            | low    | 3      | namesilo                                            |
 | soft.fashion      | available | $42.99    | $45.99        | high           | low    | 4      | name.com                                            |
 | game.fashion      | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                     |
-| BBC.fashion       | premium   | $242      | $29.50        | medium         | medium | 3      | namesilo                                            |
+| cod.fashion       | premium   | $242      | $29.50        | high           | low    | 3      | namesilo                                            |
 | trey.fashion      | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                                            |
 | delta.fashion     | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC                                    |
-| cod.fashion       | premium   | $242      | $29.50        | high           | low    | 3      | namesilo                                            |
+| dig.fashion       | premium   | $854      | $29.50        | high           | low    | 3      | namesilo                                            |
 | upon.fashion      | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                                            |
 | pride.fashion     | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                     |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FASHION One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FASHION One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
