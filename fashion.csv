@@ -7,7 +7,7 @@ d28ce069-8aaa-4038-beaf-17029dbb94bd,sun.fashion,premium,242,29.5,high,medium,3,
 9ff1bc04-f570-476f-8f06-af54921574af,aweary.fashion,available,32.49,32.49,low,low,6,namesilo,,,08/08/2026 00:39
 3160cf9c-76ff-4893-b91c-21aa4342e74e,nontoxic.fashion,available,33.98,45.98,medium,low,8,namecheap,,,18/09/2026 21:11
 f243770e-8f39-4add-af47-26f3ffd1cb2c,expended.fashion,available,32.49,32.49,medium,low,8,namesilo,,,
-c1441684-0fee-4da5-b1f1-571ddd2bac7b,get.fashion,premium,5000,,high,medium,3,name.com,,,
+c1441684-0fee-4da5-b1f1-571ddd2bac7b,get.fashion,premium,5520,29.5,medium,low,3,namesilo,,,23/09/2026 05:14
 c8f28f89-7193-4d8e-99e8-02f3c794e3f9,basophilic.fashion,available,32.49,32.49,low,low,10,namesilo,,,08/08/2026 22:53
 31956895-9498-4080-a17e-8609ad50b4b8,lithuania.fashion,available,,,medium,low,9,,,,
 c192fbf9-e7c2-447a-9ad6-e5613ab235c8,paste.fashion,available,45.98,,high,low,5,namecheap,,,
@@ -51,7 +51,7 @@ c9c22855-6f49-4aa0-a93f-81f20d679027,smuggled.fashion,available,33.98,45.98,low,
 64703f81-451b-422b-a319-8409d7adb9a9,condolences.fashion,available,32.49,32.49,high,low,11,namesilo,,,
 1187cec7-6b6f-4880-8252-995f51111a73,heard.fashion,available,32.49,32.49,medium,low,5,namesilo,,,
 c63fa535-a046-42f0-a33f-9a1e0481bd01,daylight.fashion,available,45.98,,high,low,8,namecheap,,,
-7082485a-fbae-489f-9563-252e4a186145,candy.fashion,premium,96,29.5,high,low,5,namesilo,,,
+7082485a-fbae-489f-9563-252e4a186145,candy.fashion,premium,96,29.5,medium,low,5,namesilo,,,23/09/2026 05:38
 88e111aa-ff81-4d5a-90ba-977ea0c2ecdd,warmblooded.fashion,available,45.98,,low,low,12,namecheap,,,
 864bc26f-9575-4a6d-83c9-675c4912b439,speedup.fashion,available,32.49,32.49,medium,low,8,namesilo,,,
 6d5e6a9a-5dfc-44d4-8a18-36a328cd42fa,canal.fashion,premium,47.2,29.5,medium,low,5,namesilo,,,
@@ -69,7 +69,7 @@ cd9eadf4-16f2-454d-998f-c45cbed16fb1,panel.fashion,premium,47.2,29.5,low,low,5,n
 108b4889-b73c-4035-a175-19dfde6c23ab,their.fashion,available,32.49,32.49,low,low,5,namesilo,,,
 0d29f91b-2b33-40b2-8935-62bf8629227d,alate.fashion,available,32.49,32.49,low,low,5,namesilo,,,
 0fb1e9e2-5f08-4506-9173-7be26fae04ae,fruitvegetable.fashion,available,32.49,32.49,high,low,15,namesilo,,,
-bfaa6e8e-f478-43d2-96b5-fc1445415a7f,cake.fashion,premium,500,,high,low,4,name.com,,,
+bfaa6e8e-f478-43d2-96b5-fc1445415a7f,cake.fashion,premium,512,29.5,medium,low,4,namesilo,,,23/09/2026 06:16
 f4157c8c-71f0-46c4-bdf5-ae98df48cfe6,preview.fashion,available,32.49,32.49,high,low,7,namesilo,,,
 737e5610-1d45-47d3-a569-d32e329e2c24,prototypic.fashion,available,32.49,32.49,low,low,10,namesilo,,,06/08/2026 15:42
 e64e84fc-e88a-495e-a1a0-35391643f439,racing.fashion,available,,,high,low,6,,,,
@@ -97,7 +97,7 @@ a60f7cbf-c87b-4e88-addf-5fda3e668d37,apogametic.fashion,available,32.49,32.49,lo
 3575075e-0c6d-46fe-a349-7d5e1a1a23f1,expectant.fashion,available,32.49,32.49,medium,low,9,namesilo,,,22/09/2026 06:48
 7fbd2d08-6123-4b7b-9d5c-7a0eadc553f3,same.fashion,premium,50,,high,low,4,name.com,,,
 c820de2a-9a2a-4368-94f1-74571363dcfc,copyrightsymbol.fashion,available,32.49,32.49,medium,low,16,namesilo,,,
-2e86d725-6603-47c0-9ae3-5d0d11840ebf,gracious.fashion,available,42.99,45.99,high,low,8,name.com,,,
+2e86d725-6603-47c0-9ae3-5d0d11840ebf,gracious.fashion,available,32.49,32.49,medium,low,8,namesilo,,,24/09/2026 00:42
 19f382b4-eb49-41aa-bfb7-46e31009a232,nomatter.fashion,available,32.49,32.49,medium,low,9,namesilo,,,
 deea648f-ab28-451b-85a1-94a8068a2931,jellybaby.fashion,available,32.49,32.49,high,low,10,namesilo,,,
 6d10ab95-475a-4e62-9630-857d2f37783d,twodozen.fashion,available,32.49,32.49,low,low,9,namesilo,,,
@@ -147,7 +147,6 @@ af629bf0-0fbe-49fe-ada6-e4303a67143e,entrenched.fashion,available,45.98,,medium,
 43125d4e-e5b8-42bb-968f-8dff5d4a96d6,acanthotic.fashion,available,32.49,32.49,low,low,10,namesilo,,,
 bd069e70-5cfc-44af-b0dd-387816dd3b61,aspheric.fashion,available,32.49,32.49,low,low,8,namesilo,,,07/08/2026 04:52
 babae991-06be-490b-87fd-c9770a68590a,ought.fashion,available,32.49,32.49,high,low,5,namesilo,,,
-1d45fe08-bb15-45bf-854a-7a609698b0ed,coveted.fashion,available,42.99,45.99,high,low,7,name.com,,,
 2202abf2-5902-465c-a561-7a3a1bf31708,sit.fashion,premium,242,29.5,high,low,3,namesilo,,,
 af217a0a-9b71-49cf-80c8-236d28d2dadc,howthefuck.fashion,available,32.49,32.49,medium,low,12,namesilo,,,
 1c967c2f-1683-411d-8751-7feff417c632,beetle.fashion,available,32.49,32.49,low,low,6,namesilo,,,09/08/2026 08:17
@@ -157,7 +156,7 @@ e7ddf367-81b6-45eb-b709-9a04a31040f0,attorney.fashion,available,32.49,32.49,high
 c86721c9-f725-4beb-930d-c1b0ecd402d5,rust.fashion,premium,50,,medium,low,4,name.com,,,
 eb0e4bb4-d369-4447-ae64-94978641e7d7,poisoning.fashion,available,32.49,32.49,medium,low,9,namesilo,,,
 114a008d-537e-4ed9-bf54-755cb0577c51,zestful.fashion,available,32.49,32.49,low,low,7,namesilo,,,08/08/2026 19:51
-eab75545-b422-4530-9d4e-9b8eebea60ea,health.fashion,resell,,,medium,low,6,"Spaceship, Inc.",16/04/2021 08:25,16/04/2027 08:25,19/09/2026 10:54
+eab75545-b422-4530-9d4e-9b8eebea60ea,health.fashion,resell,,,medium,low,6,"Spaceship, Inc.",16/04/2021 08:25,16/04/2027 08:25,23/09/2026 08:29
 90d44d6b-c430-4c13-b28b-4c65995bff81,beaming.fashion,available,32.49,32.49,low,low,7,namesilo,,,09/08/2026 04:03
 c487e102-e115-4bd0-95cd-03c89d0f4196,autosomal.fashion,available,33.98,45.98,low,low,9,namecheap,,,07/08/2026 21:02
 d9388f5b-c39d-4cd7-aaaa-6d061ca560a7,anadromous.fashion,available,32.49,32.49,low,low,10,namesilo,,,
@@ -170,7 +169,6 @@ a0d70795-8a28-44b0-909d-3c16c72723bf,presentation.fashion,available,45.98,,mediu
 cb12ff04-9fde-453d-9bba-3fa73dacc4c4,acinic.fashion,available,32.49,32.49,low,low,6,namesilo,,,
 ec619971-1189-4d5c-bf57-29d3befe2d7d,awny.fashion,premium,47.2,29.5,low,low,4,namesilo,,,08/08/2026 01:25
 a792aca5-3332-4711-8516-539bb362c69f,stpauls.fashion,available,32.49,32.49,medium,low,8,namesilo,,,
-521b6bdb-159c-4237-8017-f26f05363203,funny.fashion,available,,,high,high,5,,,,
 7e9d3931-5cd4-424f-954b-15495512acd7,digits.fashion,available,45.98,,high,low,6,namecheap,,,
 f36f3a3d-6df3-46be-8b6d-0a1208d59aa1,algonkian.fashion,available,32.49,32.49,low,low,9,namesilo,,,
 de25988c-8d9a-466a-8754-2809522a315a,sincere.fashion,available,42.99,45.99,high,low,7,name.com,,,
@@ -224,13 +222,13 @@ d255c074-a250-4b03-80c4-71b79c560024,clustered.fashion,available,,,medium,low,9,
 cf3cd746-eb93-4ac2-9ba4-e1e7d2b3d772,bareassed.fashion,available,33.98,45.98,low,low,10,namecheap,,,08/08/2026 18:05
 5479a50f-9352-4aa3-b1d7-07eae963503f,amatory.fashion,available,32.49,32.49,low,low,7,namesilo,,,
 0275b346-2ce4-48ac-bb4b-7fcd565e5162,bearable.fashion,available,32.49,32.49,low,low,8,namesilo,,,09/08/2026 04:27
-1a84192d-0f98-410d-b2a2-efb27c8acb23,christian.fashion,premium,96,29.5,high,medium,9,namesilo,,,
+1a84192d-0f98-410d-b2a2-efb27c8acb23,christian.fashion,premium,96,29.5,medium,low,9,namesilo,,,23/09/2026 14:35
 d2bd515d-099a-46a7-9e31-8889c0f3cc43,playstation.fashion,available,,,high,low,11,,,,
 4802bd5d-d284-4ec6-8827-42db45b3bcde,drivinglicense.fashion,available,32.49,32.49,high,low,15,namesilo,,,
 cc93aec5-a681-44a4-98c4-613bf404524b,complete.fashion,available,33.98,45.98,medium,low,8,namecheap,,,19/09/2026 19:02
 bcfc2b3e-637b-4a98-9c50-7d4782dedf2a,acinous.fashion,available,32.49,32.49,low,low,7,namesilo,,,
 c4e38fb5-2721-477c-9fc7-4bb3ffc7d9f0,worthwhile.fashion,available,32.49,32.49,high,low,10,namesilo,,,
-408d700c-b42d-4d07-891e-1d98c4fc8adb,worn.fashion,premium,47.2,29.5,medium,low,4,namesilo,,,
+408d700c-b42d-4d07-891e-1d98c4fc8adb,worn.fashion,premium,50,46.99,medium,low,4,name.com,,,23/09/2026 12:58
 33565b5c-d61e-42d5-8908-358cb4113c7a,whatnot.fashion,available,32.49,32.49,low,low,8,namesilo,,,
 1bfafd97-062e-4b9d-b403-fe091711d6b4,nettlesome.fashion,available,32.49,32.49,low,low,10,namesilo,,,
 5542a0b5-774f-453d-bde2-c5a2b387f71a,documents.fashion,available,32.49,32.49,medium,low,9,namesilo,,,
@@ -243,7 +241,7 @@ e8457227-b07f-4c76-b2b3-bddda9054e7c,therealityis.fashion,available,32.49,32.49,
 d806b180-8243-4d78-bd6f-0bb159c3393a,march.fashion,available,,,high,low,5,,,,
 0f0213ab-3788-4f49-b9f2-2e2a0a39b4ff,dauntless.fashion,available,32.49,32.49,medium,low,9,namesilo,,,22/09/2026 12:12
 714e9605-8fd1-446e-a127-ad5fa15d10d1,scream.fashion,available,32.49,32.49,high,low,6,namesilo,,,
-d875bfcf-015b-4607-ae87-12d4a55c241a,countless.fashion,available,42.99,45.99,high,low,9,name.com,,,
+d875bfcf-015b-4607-ae87-12d4a55c241a,countless.fashion,available,32.49,32.49,medium,low,9,namesilo,,,24/09/2026 00:28
 98993e12-555e-41cd-8873-66369a2817b5,granddaughter.fashion,available,32.49,32.49,high,low,13,namesilo,,,
 93a8ea3b-ef99-4b74-822b-2a1e3131f43d,cali.fashion,premium,2500,,high,low,4,name.com,,,
 6f187431-7816-430d-a48f-6795baa547b6,archaistic.fashion,available,32.49,32.49,low,low,10,namesilo,,,06/08/2026 15:21
@@ -272,7 +270,6 @@ a8fe3796-612f-4dfd-9862-6f1c34ac27b4,induce.fashion,available,32.49,32.49,high,l
 efe38f09-377a-4808-901a-9a35efc82a43,revised.fashion,available,45.98,,medium,low,7,namecheap,,,
 75700418-d2dc-4611-b022-d02f4f161ad4,callcentre.fashion,available,32.49,32.49,medium,low,11,namesilo,,,
 2606f833-e0f9-410b-aa92-e81eb9308127,tetrad.fashion,available,32.49,32.49,low,low,6,namesilo,,,
-f75e7302-85b4-4d09-b4fc-a2e2ce51167b,hidden.fashion,available,,,medium,low,6,,,,
 5d2a7ce2-61ec-48e5-a19e-7d42d441df2f,systematically.fashion,available,45.98,,medium,low,14,namecheap,,,
 e5b3a2d2-b190-4f65-bf61-5eae7a97d4c3,darken.fashion,available,32.49,32.49,high,low,6,namesilo,,,
 13a1a188-220b-4673-aeeb-a5d49a843986,vary.fashion,premium,47.2,29.5,high,low,4,namesilo,,,
@@ -284,7 +281,7 @@ c52b04b1-7437-45b4-aca9-4820ebd4a475,policies.fashion,available,32.49,32.49,low,
 7139acc1-5707-48bf-af2c-db60e20550f2,juice.fashion,available,32.49,32.49,high,low,5,namesilo,,,
 597ca68f-a776-4dd4-83e9-b865627fe534,aphoristic.fashion,available,32.49,32.49,low,low,10,namesilo,,,05/08/2026 23:31
 eac59873-36fd-4842-b39f-01a30c1f4771,asexual.fashion,available,32.49,32.49,low,low,7,namesilo,,,07/08/2026 01:33
-c9ab2386-74de-4b34-9f8d-5adb071c25e4,bust.fashion,premium,96,29.5,high,low,4,namesilo,,,
+c9ab2386-74de-4b34-9f8d-5adb071c25e4,bust.fashion,premium,96,29.5,low,low,4,namesilo,,,23/09/2026 09:51
 102a5ff7-0712-49eb-8491-e037de706838,moviefilm.fashion,available,32.49,32.49,high,low,10,namesilo,,,
 3a59a2c3-6ddb-4d83-bb99-25356518dff1,turntup.fashion,available,45.98,,high,low,8,namecheap,,,
 71dad6b8-deee-4759-b62a-9bea5f9765e1,glistering.fashion,available,32.49,32.49,low,low,10,namesilo,,,
@@ -294,7 +291,7 @@ cd782215-845b-4372-9fd5-afacef99d9da,direction.fashion,available,32.49,32.49,hig
 da357075-d99b-4082-ba0b-569a807b9854,byfar.fashion,available,32.49,32.49,medium,low,6,namesilo,,,
 eccd239a-9851-4558-a678-f4ebb7e291cf,putterabout.fashion,available,32.49,32.49,low,low,12,namesilo,,,
 3238a263-b854-4f33-a4ec-501cb4ba2a3e,sevenup.fashion,available,32.49,32.49,high,low,8,namesilo,,,
-518d7be0-2b42-4d9f-b72f-0c5bfc9c34de,inherent.fashion,available,32.49,32.49,medium,low,8,namesilo,,,
+518d7be0-2b42-4d9f-b72f-0c5bfc9c34de,inherent.fashion,available,32.49,32.49,low,low,8,namesilo,,,23/09/2026 10:30
 f37780f3-04b8-4011-9397-94d2f068c83d,farmwork.fashion,available,32.49,32.49,medium,low,9,namesilo,,,
 15fcfe3d-1b90-4138-8aed-f1cc6262914d,shoplift.fashion,available,32.49,32.49,high,low,8,namesilo,,,
 c1ed6e4a-175e-4286-ba3b-52f8440674ca,attired.fashion,available,32.49,32.49,low,low,7,namesilo,,,06/08/2026 04:47
@@ -305,7 +302,7 @@ a367a093-91a0-40c5-9fda-42dfd1ab4055,criticise.fashion,available,32.49,32.49,med
 6e8bf64a-3041-4ddd-bdf8-842451c7fe69,mission.fashion,premium,96,29.5,high,medium,7,namesilo,,,
 2a13f7d1-9371-4c74-a7ad-6f89baa0aa8d,pig.fashion,premium,854,29.5,high,low,3,namesilo,,,
 a8b4fcb0-167e-43e8-a839-06ac329c30c6,monday.fashion,premium,96,29.5,high,low,6,namesilo,,,
-9e344926-2bf5-4b14-94ce-f766d49b2f90,appointment.fashion,available,45.98,,high,low,11,namecheap,,,
+9e344926-2bf5-4b14-94ce-f766d49b2f90,appointment.fashion,available,32.49,32.49,medium,low,11,namesilo,,,24/09/2026 03:38
 e309d1a6-ff0a-4246-a41d-e3f7624c5caa,saddletree.fashion,available,45.98,,low,low,11,namecheap,,,
 04c2b250-18b0-4ab9-ac39-e079a472eed9,atrip.fashion,available,32.49,32.49,low,low,5,namesilo,,,07/08/2026 14:33
 b0da29fa-28ca-4a28-b54f-7f84a82c42f8,lettherebelight.fashion,available,32.49,32.49,medium,low,18,namesilo,,,
@@ -367,7 +364,7 @@ afc9349f-1888-4749-baf1-0138d357346b,allweathertyre.fashion,available,32.49,32.4
 d308dc26-1d30-428d-838f-71b67476b61b,answerable.fashion,available,32.49,32.49,medium,low,10,namesilo,,,22/09/2026 05:32
 9f41ef8c-0ed1-4ad7-b935-4ab0fbef8b76,baffling.fashion,available,32.49,32.49,low,low,8,namesilo,,,08/08/2026 08:02
 1b0d7788-cbe2-48fe-9872-c28934ca7f89,avocado.fashion,premium,512,29.5,medium,low,7,namesilo,,,22/09/2026 14:34
-f2a3f165-c603-4d6b-a2cb-87b7a887763d,costly.fashion,available,42.99,45.99,medium,low,6,name.com,,,
+f2a3f165-c603-4d6b-a2cb-87b7a887763d,costly.fashion,available,33.98,45.98,low,low,6,namecheap,,,24/09/2026 00:19
 1e84b79a-e7e8-4d94-b6a0-d125ae776309,tatafornow.fashion,available,32.49,32.49,low,low,13,namesilo,,,
 4011f484-daeb-4fe0-8969-8dac01a5691e,advantage.fashion,available,32.49,32.49,high,low,9,namesilo,,,
 edf92b0e-1d7d-4f38-a6e1-c5381926d228,attenuate.fashion,available,32.49,32.49,low,low,9,namesilo,,,07/08/2026 15:21
@@ -387,7 +384,7 @@ e1e30588-7d73-415f-afc6-35841d6ac808,westend.fashion,available,32.49,32.49,mediu
 18ed8bbb-ba26-4a76-b840-abc5bc649015,arranged.fashion,available,33.98,45.98,medium,low,8,namecheap,,,22/09/2026 08:25
 c32a3093-4b4f-404e-aabf-be507d7df242,trillionaire.fashion,available,45.98,,high,low,12,namecheap,,,
 da3986d2-c2df-4adc-83a1-c13f61c6a416,lively.fashion,premium,47.2,29.5,medium,low,6,namesilo,,,23/09/2026 01:27
-a6b308ad-aeed-4358-9a26-622877823abc,cod.fashion,premium,242,29.5,high,low,3,namesilo,,,
+a6b308ad-aeed-4358-9a26-622877823abc,cod.fashion,premium,242,29.5,low,low,3,namesilo,,,23/09/2026 14:56
 b89afd89-cefb-43a7-a29f-734fd69965ba,dropin.fashion,available,32.49,32.49,high,low,7,namesilo,,,
 e5cfa319-c4e5-48cd-8b75-a93f499b005c,third.fashion,premium,47.2,29.5,low,low,5,namesilo,,,
 89623faa-e6df-4c5b-a944-f9756c230e37,ataraxic.fashion,available,32.49,32.49,low,low,8,namesilo,,,07/08/2026 12:49
@@ -404,10 +401,10 @@ d016da07-5d64-4faa-8afb-1e59a4898754,operatingsystem.fashion,available,32.49,32.
 dc674941-249a-4cc6-9ac6-eae44ea26d03,howlatthemoon.fashion,available,32.49,32.49,high,low,16,namesilo,,,
 da730666-ea41-46a9-aaf4-24d6129997f6,daring.fashion,premium,47.2,29.5,medium,low,6,namesilo,,,07/08/2026 21:39
 6059ac83-7648-46d5-84cc-39a24b942946,threesome.fashion,available,32.49,32.49,low,low,9,namesilo,,,
-a5aad5da-e1fa-4634-bc5b-d7ecd8df21d5,contingent.fashion,available,42.99,45.99,high,low,10,name.com,,,
+a5aad5da-e1fa-4634-bc5b-d7ecd8df21d5,contingent.fashion,available,32.49,32.49,low,low,10,namesilo,,,23/09/2026 22:07
 92d49a8a-08af-4b45-9afd-2cc2704f0c8c,engine.fashion,available,32.49,32.49,medium,low,6,namesilo,,,08/09/2026 12:18
 60e064db-4980-4cb1-b95e-e7736365601f,smiling.fashion,available,32.49,32.49,high,low,7,namesilo,,,
-1f179884-b885-4b39-b18a-fd68583332ca,compelling.fashion,available,42.99,45.99,high,low,10,name.com,,,
+1f179884-b885-4b39-b18a-fd68583332ca,compelling.fashion,available,33.98,45.98,medium,low,10,namecheap,,,23/09/2026 17:02
 ee2a0a30-3ae8-48fa-a238-030352646488,improve.fashion,premium,242,29.5,high,low,7,namesilo,,,
 ecc7af60-5327-45a3-ac74-67210c21b9e3,ballistic.fashion,available,32.49,32.49,low,low,9,namesilo,,,08/08/2026 10:31
 ec6316ba-e736-473a-abb4-148cc7f7a7a3,game.fashion,resell,,,medium,low,4,"Spaceship, Inc.",05/02/2019 16:17,05/02/2027 16:17,23/09/2026 02:45
@@ -444,7 +441,7 @@ a71afac4-0ef9-4e0a-9b50-6be0568385ee,panoptic.fashion,available,33.98,45.98,low,
 af05388b-4be3-4a63-9434-35941b73464e,leasing.fashion,available,32.49,32.49,high,low,7,namesilo,,,
 1ec70b08-4670-4f41-a199-dc265c3e77e6,goodandproper.fashion,available,32.49,32.49,medium,low,15,namesilo,,,
 2d94d228-689d-44a2-ad40-f62016693061,anuran.fashion,available,32.49,32.49,low,low,6,namesilo,,,05/08/2026 20:48
-2430dd50-c4c0-4a84-9f7f-34a38bb29319,enemy.fashion,available,32.49,32.49,low,low,5,namesilo,,,19/09/2026 10:02
+2430dd50-c4c0-4a84-9f7f-34a38bb29319,enemy.fashion,available,33.98,45.98,low,low,5,namecheap,,,23/09/2026 07:51
 9be55ca5-f837-4f0b-b3d2-f79e88fa6f5f,worst.fashion,premium,32.49,32.49,medium,low,5,namesilo,,,
 220baea1-4eac-4850-99be-e34c29fc2d15,loud.fashion,available,32.49,32.49,medium,low,4,namesilo,,,
 c25b0c73-a29c-4cfb-a3da-c7cc8e2e8754,moneyisnoobject.fashion,available,32.49,32.49,medium,low,18,namesilo,,,
@@ -510,7 +507,7 @@ a95f04ea-701d-4c50-9303-a9896a63b204,aplacental.fashion,available,32.49,32.49,lo
 0dcfb5a2-501f-4320-845f-6b8a854a004d,firetruck.fashion,available,32.49,32.49,high,low,10,namesilo,,,
 d5e64051-6d4b-4b6b-9fd6-11ec31094975,pleased.fashion,available,32.49,32.49,high,low,7,namesilo,,,
 ad794bb7-8e23-4164-b6ba-fc0c02a3a182,spherical.fashion,available,32.49,32.49,low,low,9,namesilo,,,08/08/2026 10:21
-0a9af17f-ca69-4bfd-9575-3ddf2305146f,savings.fashion,available,32.49,32.49,medium,low,7,namesilo,,,19/09/2026 13:58
+0a9af17f-ca69-4bfd-9575-3ddf2305146f,savings.fashion,available,32.49,32.49,medium,low,7,namesilo,,,23/09/2026 16:49
 6f075f23-763c-4e4a-813a-943a058af7ff,winterblues.fashion,available,32.49,32.49,low,low,12,namesilo,,,
 867e3921-17c8-43ad-8726-9746794f067c,exhaustion.fashion,available,45.98,,medium,low,10,namecheap,,,
 89824390-e24d-448e-924b-50385c7e63c8,xcviii.fashion,available,32.49,32.49,low,low,6,namesilo,,,
@@ -583,7 +580,7 @@ f885ca4d-fe89-4963-911b-8d76be65f091,lplate.fashion,available,32.49,32.49,medium
 9a833480-1dc5-49e4-92a5-3bf5a467691e,neglect.fashion,available,32.49,32.49,high,low,7,namesilo,,,
 46f0ff91-1d43-46d2-b26b-315def554ee1,outdated.fashion,available,32.49,32.49,medium,low,8,namesilo,,,
 a513c0bb-5d21-41bf-95d3-dc0765d4fcb6,hopeful.fashion,available,32.49,32.49,low,low,7,namesilo,,,22/09/2026 09:48
-36aebe34-b1a5-4d2e-8063-af1543a8b8b5,corrupt.fashion,available,42.99,45.99,high,low,7,name.com,,,
+36aebe34-b1a5-4d2e-8063-af1543a8b8b5,corrupt.fashion,available,32.49,32.49,low,low,7,namesilo,,,23/09/2026 23:53
 2c17a7c7-32ed-4256-865d-16d4fae18c5c,confess.fashion,available,32.49,32.49,high,low,7,namesilo,,,
 798b15ab-16b0-4be4-9e77-87d6d3e716cd,seals.fashion,available,32.49,32.49,medium,low,5,namesilo,,,
 210e2f8c-1091-45f8-a54d-01450e3c4165,reset.fashion,available,32.49,32.49,high,medium,5,namesilo,,,
@@ -615,7 +612,7 @@ c5127485-65bd-423c-94f5-d7eabe8dbc24,annular.fashion,available,32.49,32.49,low,l
 3ad16504-fa6e-4074-8198-2852ff099c26,moneytalks.fashion,available,32.49,32.49,medium,low,11,namesilo,,,
 5767b012-cfe4-4331-b25a-36073a88bd13,prompting.fashion,available,32.49,32.49,medium,low,9,namesilo,,,
 69deeec4-d0fb-4e54-b8db-21d086a51f71,sixteenth.fashion,available,32.49,32.49,low,low,9,namesilo,,,
-228bb622-6fc0-45f6-a057-8b569fa7d4c6,sliced.fashion,available,32.49,32.49,high,low,6,namesilo,,,
+228bb622-6fc0-45f6-a057-8b569fa7d4c6,sliced.fashion,available,33.98,45.98,medium,low,6,namecheap,,,23/09/2026 14:26
 5c5298ba-061a-4662-9616-8f3a44e29eb6,wouldithurt.fashion,available,32.49,32.49,low,low,13,namesilo,,,
 48f3eb59-513f-4daf-9d9c-0e8bd06b1bba,parched.fashion,available,32.49,32.49,low,low,7,namesilo,,,
 db1b998c-5030-48a0-9637-5701781f7b38,arched.fashion,available,32.49,32.49,low,low,6,namesilo,,,06/08/2026 14:34
@@ -630,12 +627,12 @@ fecb95ff-980a-4e54-8ad7-9e5396b2e6e8,enterthepicture.fashion,available,45.98,,me
 9380f00d-64ca-4f9d-a8d7-04f29418d3af,saveface.fashion,available,32.49,32.49,medium,low,9,namesilo,,,
 ab1ed6fb-36ed-4ec9-9e31-23ce8ffc214c,desolate.fashion,available,33.98,45.98,low,low,8,namecheap,,,08/08/2026 21:07
 ba1aec45-bf97-49b2-8ca1-09fc81f40227,howno.fashion,available,32.49,32.49,medium,low,6,namesilo,,,
-90cf7077-7efb-4a81-9bd3-2093ee851536,soft.fashion,available,42.99,45.99,high,low,4,name.com,,,
+90cf7077-7efb-4a81-9bd3-2093ee851536,soft.fashion,available,32.49,32.49,medium,low,4,namesilo,,,24/09/2026 04:03
 a7d71842-81ff-46c7-b4ad-07bfb28c24b6,geometry.fashion,available,45.98,,medium,low,8,namecheap,,,
 bf0ae71e-bddb-43e2-8b24-d82c95eea026,scientist.fashion,available,32.49,32.49,high,low,9,namesilo,,,
 c2c313b2-b1f5-456d-9101-8d328e1b5220,aflutter.fashion,available,32.49,32.49,low,low,8,namesilo,,,
 2c90e2b7-c32e-443f-a369-da101ac71c0c,montreal.fashion,premium,100,,medium,low,8,name.com,,,
-c7c87228-3802-4644-8eba-d0d592826cf0,scornful.fashion,available,42.99,45.99,medium,low,8,name.com,,,
+c7c87228-3802-4644-8eba-d0d592826cf0,scornful.fashion,available,32.49,32.49,low,low,8,namesilo,,,23/09/2026 21:53
 378487e8-a724-4015-bc82-baaea25da75d,instead.fashion,available,32.49,32.49,high,low,7,namesilo,,,
 53969251-f51c-4b73-8cb5-6278ae938e95,influential.fashion,available,32.49,32.49,medium,low,11,namesilo,,,08/09/2026 05:20
 c0806efd-a43a-4b7a-bb28-51b43da76cb3,brief.fashion,available,32.49,32.49,medium,low,5,namesilo,,,21/09/2026 13:42
@@ -676,7 +673,7 @@ a6018e9b-0532-412a-bcf8-0cec6cf5738c,comerainorshine.fashion,available,32.49,32.
 a9ffc877-ea39-4291-8f10-335305abc577,nonstop.fashion,available,32.49,32.49,medium,low,7,namesilo,,,22/09/2026 08:07
 9834eebd-ad46-4898-8112-9b1c6e7fea04,fiery.fashion,available,32.49,32.49,low,low,5,namesilo,,,06/08/2026 16:24
 d2e8e166-c61d-4899-81b1-6f10d54a44cd,classroom.fashion,available,32.49,32.49,high,low,9,namesilo,,,
-c4c65a39-cf9f-4a1e-aa69-5afedd7cf7d0,sly.fashion,premium,1000,45.99,medium,low,3,name.com,,,
+c4c65a39-cf9f-4a1e-aa69-5afedd7cf7d0,sly.fashion,premium,854,29.5,low,low,3,namesilo,,,24/09/2026 01:29
 57ad7dec-0be9-4a6f-9fac-2bbd2e406b65,oldagepensioner.fashion,available,45.98,,medium,low,17,namecheap,,,
 f6cfd6f3-6174-4d1c-b29a-4258c4e46f0d,butter.fashion,available,32.49,32.49,high,low,6,namesilo,,,
 14d3774d-26ca-48fb-812e-6aea66d55cf7,respiratory.fashion,available,32.49,32.49,low,low,11,namesilo,,,
@@ -725,7 +722,7 @@ b04b27e7-a7e6-47b0-8a69-6425d8596ebe,harm.fashion,premium,47.2,29.5,medium,low,4
 2f50bdd9-b303-40b2-b71e-1e615f7fcb02,oxfam.fashion,available,32.49,32.49,high,low,5,namesilo,,,
 58bc2629-ee22-4bf8-820f-e68d5e454233,bornyesterday.fashion,available,32.49,32.49,medium,low,14,namesilo,,,
 c1427338-eb7e-48c2-8d7a-63e200fa9a7f,illegal.fashion,available,32.49,32.49,high,low,7,namesilo,,,
-8dd0efd6-faf7-4ab0-a6f1-eb3f63e8ea47,blacktea.fashion,available,32.49,32.49,high,low,9,namesilo,,,
+8dd0efd6-faf7-4ab0-a6f1-eb3f63e8ea47,blacktea.fashion,available,32.49,32.49,low,low,9,namesilo,,,24/09/2026 01:47
 105c55a4-7fb2-46d6-bb12-3538d944ab76,kilobyte.fashion,available,32.49,32.49,high,low,8,namesilo,,,
 1ee3c338-1cfe-45be-b821-7fea887510b7,refundable.fashion,available,32.49,32.49,high,low,10,namesilo,,,
 285b469c-521e-44b0-8507-ced98d8c72ab,upstage.fashion,available,32.49,32.49,low,low,7,namesilo,,,
@@ -743,7 +740,7 @@ fca9bcdb-6327-48c1-b3eb-f749fa47862b,relate.fashion,available,32.49,32.49,low,lo
 5c122e35-0bb1-4b46-9dfc-ef1e08633070,substantial.fashion,available,32.49,32.49,high,low,11,namesilo,,,
 c39e0926-e9f8-4912-a7d4-c622f238a8a9,catch.fashion,premium,500,,high,low,5,name.com,,,
 2c9cc57f-d422-435a-89bd-aca70730153c,tin.fashion,premium,242,29.5,medium,low,3,namesilo,,,
-12d54d46-2b83-4276-bbd2-ecb5c4dcc2d0,mandatory.fashion,available,42.99,45.99,high,low,9,name.com,,,
+12d54d46-2b83-4276-bbd2-ecb5c4dcc2d0,mandatory.fashion,available,33.98,45.98,medium,low,9,namecheap,,,23/09/2026 18:22
 4bca4e0c-f4bb-459b-ae03-91f09201beeb,clerk.fashion,available,32.49,32.49,medium,low,5,namesilo,,,
 f51e9eb3-0429-4868-9879-1b46be59b3fd,blowout.fashion,premium,100,,high,low,7,name.com,,,
 a23a9374-9eb4-4638-95e4-b48809ce1d6f,eolotropic.fashion,available,32.49,32.49,low,low,10,namesilo,,,
@@ -766,7 +763,7 @@ bb53b84f-afe5-469e-a388-98e02bd6ba5f,airtight.fashion,available,33.98,45.98,low,
 ae666c36-bd62-41b2-a087-bc6b55575407,adulterate.fashion,available,32.49,32.49,low,low,10,namesilo,,,
 2386043a-f7d8-4e64-8f5b-25053779deba,pearlwhite.fashion,available,32.49,32.49,low,low,11,namesilo,,,
 7d1b3b2f-2762-49c8-b83a-e0e2a8c76b78,authorised.fashion,available,32.49,32.49,medium,low,10,namesilo,,,22/09/2026 13:51
-3fd7ddf7-d5d0-4c61-abd9-8f23a21c6e22,unshakable.fashion,available,32.49,32.49,high,low,10,namesilo,,,
+3fd7ddf7-d5d0-4c61-abd9-8f23a21c6e22,unshakable.fashion,available,33.98,45.98,medium,low,10,namecheap,,,23/09/2026 10:41
 87e86afc-f2b1-4587-a16a-ff3ef5001413,leaveofabsence.fashion,available,32.49,32.49,high,low,16,namesilo,,,
 8dfe4fed-0d0c-4a64-b9bf-011e5e49703b,antique.fashion,available,32.49,32.49,medium,low,7,namesilo,,,21/09/2026 22:23
 1cd59e0d-5a35-4738-b604-5806ed54ed43,wishing.fashion,available,32.49,32.49,high,low,7,namesilo,,,
@@ -802,14 +799,13 @@ dcff576e-552e-4480-9b53-f9c9563272ed,hairdryer.fashion,available,45.98,,high,low
 7aec0b43-61cb-4271-a557-fce6ae814f1f,northandsouth.fashion,available,32.49,32.49,medium,low,15,namesilo,,,
 7726b9a1-fea0-4517-848e-8f66f1c9f853,kinder.fashion,available,,,high,low,6,,,,
 419750be-abf1-4287-8375-31a3640f5848,there.fashion,premium,47.2,29.5,high,low,5,namesilo,,,
-0f2ea726-aa85-4e11-a1d6-a9b2579b4e61,shiny.fashion,available,,,high,high,5,,,,
 7f7851ef-d325-42e0-b0e5-1d706e8b5bdf,gleaming.fashion,available,32.49,32.49,medium,low,8,namesilo,,,
 1f157cd5-5b74-4741-b701-485651203e54,awful.fashion,available,32.49,32.49,low,low,5,namesilo,,,22/09/2026 15:06
 bc49f87c-88e3-4d40-a088-ffcb5043121a,traveled.fashion,available,32.49,32.49,medium,low,8,namesilo,,,
 fb84fb4e-9684-4d42-9ab0-5e5e0b02f0d3,dummy.fashion,premium,250,45.99,high,low,5,name.com,,,
 e2c51a28-c78b-4511-9575-24a732f89a1e,snow.fashion,premium,47.2,29.5,medium,low,4,namesilo,,,
 470e0ad3-c924-4949-bbc9-938ac620681e,glossary.fashion,available,45.98,,high,low,8,namecheap,,,
-99be3ead-5aa9-4631-b78d-201805b6f896,crying.fashion,available,42.99,45.99,high,low,6,name.com,,,
+99be3ead-5aa9-4631-b78d-201805b6f896,crying.fashion,available,32.49,32.49,low,low,6,namesilo,,,24/09/2026 02:20
 d097a927-6b02-4cbc-829b-d03a31ada094,tweet.fashion,available,,,high,low,5,,,,
 bb27fd2e-d8ac-4f23-b052-d436e5adb179,thug.fashion,premium,854,29.5,high,low,4,namesilo,,,
 81ba9d39-fe65-4554-96e4-dd411b68bd11,saveup.fashion,available,32.49,32.49,medium,low,7,namesilo,,,
@@ -883,7 +879,7 @@ adf645ad-9e5b-4876-a0ba-e63c8c76eb6d,counter.fashion,available,32.49,32.49,mediu
 7b5d9a7a-c5c9-44a2-b91b-6cde8290699a,wasteland.fashion,available,33.98,45.98,low,low,9,namecheap,,,08/08/2026 21:11
 a322e668-028e-4241-abcf-837df5eda125,letters.fashion,available,32.49,32.49,high,low,7,namesilo,,,
 11aab201-6c09-4635-8939-d54898f12282,alated.fashion,available,32.49,32.49,low,low,6,namesilo,,,
-18605f16-30f7-476f-b573-836fb4d757da,curious.fashion,available,42.99,45.99,high,low,7,name.com,,,
+18605f16-30f7-476f-b573-836fb4d757da,curious.fashion,available,32.49,32.49,medium,low,7,namesilo,,,24/09/2026 03:57
 b394bc4d-219f-440d-b201-176d9f3f6118,alsatian.fashion,available,32.49,32.49,low,low,8,namesilo,,,
 037c3b72-896f-4e2b-887e-615a8c14a8ca,treeoflife.fashion,available,45.98,,medium,low,12,namecheap,,,
 b0e3e074-e86e-4266-90b1-5bd5c3ce2d64,coolly.fashion,available,32.49,32.49,high,low,6,namesilo,,,
@@ -897,14 +893,14 @@ c71b1b37-0bd0-43e2-8194-96485eab4363,roar.fashion,premium,47.2,29.5,high,low,4,n
 12cf5c68-b6a2-43c7-9080-bab0780fc5a7,racingline.fashion,available,32.49,32.49,high,low,11,namesilo,,,
 d54208cb-0cd0-40ab-b92e-ca499b846d05,heck.fashion,available,32.49,32.49,medium,low,4,namesilo,,,
 2483ebf3-ed84-494d-b96d-683a1188f7ac,appalling.fashion,available,32.49,32.49,low,low,9,namesilo,,,06/08/2026 04:31
-a76c6373-42b9-45ad-af03-b631ebf51a6e,pick.fashion,premium,96,29.5,medium,low,4,namesilo,,,
+a76c6373-42b9-45ad-af03-b631ebf51a6e,pick.fashion,premium,104,32.5,low,low,4,namecheap,,,23/09/2026 14:24
 abe274b3-7ac1-4e1a-987f-b1f23e6c436c,heatwave.fashion,available,32.49,32.49,medium,low,9,namesilo,,,
 e0b33e8d-aa1d-4268-a059-661d07e1034c,trinity.fashion,resell,,,low,low,7,West263 International Limited,06/07/2026 20:47,06/07/2027 20:47,21/09/2026 13:07
 db00bb9d-7122-4d61-8ca1-190a0d19d884,note.fashion,premium,50,,medium,low,4,name.com,,,
 111b8086-31df-4e18-9449-e0da14a91f76,continually.fashion,available,32.49,32.49,medium,low,11,namesilo,,,
 daae4542-359b-4e07-8aaa-9d78634e6545,burden.fashion,available,32.49,32.49,medium,low,6,namesilo,,,
 18081955-e3ab-4fa2-8425-313a1531188d,characteristics.fashion,available,32.49,32.49,medium,low,15,namesilo,,,
-f77c2b66-d9fc-4ad0-96dc-a802b59d0806,built.fashion,premium,2500,,high,low,5,name.com,,,
+f77c2b66-d9fc-4ad0-96dc-a802b59d0806,built.fashion,premium,2660,29.5,medium,low,5,namesilo,,,23/09/2026 10:20
 68786aab-bee2-46a2-90c2-f5d363c6e527,hexad.fashion,available,32.49,32.49,low,low,5,namesilo,,,
 4ca1316f-ea23-4725-996c-7edb36862216,asyet.fashion,available,32.49,32.49,low,low,6,namesilo,,,13/09/2026 21:52
 73efb162-a93c-4200-b5cb-de77f84cc7fb,touchdown.fashion,available,32.49,32.49,medium,low,10,namesilo,,,
@@ -929,7 +925,7 @@ ffddb15f-511c-47cc-ae75-b21ad147840d,witty.fashion,available,32.49,32.49,high,lo
 df982691-8a1c-4d06-ad3b-62786f67659d,comeright.fashion,available,32.49,32.49,high,low,10,namesilo,,,
 c6280875-80f7-4d39-bc6d-f7b6bf2e2e0a,twohanded.fashion,available,32.49,32.49,low,low,10,namesilo,,,
 fc16c1a9-0f6e-42b8-9dc8-f41b930f4abb,bemused.fashion,available,32.49,32.49,low,low,7,namesilo,,,07/08/2026 11:47
-dbc596c4-5954-49b6-af5a-7c4e71fd0934,apply.fashion,available,33.98,45.98,medium,low,5,namecheap,,,19/09/2026 03:36
+dbc596c4-5954-49b6-af5a-7c4e71fd0934,apply.fashion,available,32.49,32.49,medium,low,5,namesilo,,,23/09/2026 08:15
 0efd1264-a6d9-4220-8094-93ddf4dcc8c3,barbaric.fashion,available,32.49,32.49,low,low,8,namesilo,,,08/08/2026 15:31
 c559e0c6-c7ff-4b74-9162-0ac40a066bfd,getwrong.fashion,available,32.49,32.49,medium,low,9,namesilo,,,
 81a77132-a2a9-4ad2-b821-f35a956b9576,noncompeteclause.fashion,available,32.49,32.49,medium,low,17,namesilo,,,
@@ -954,7 +950,7 @@ b8569abd-e228-44cc-958c-5cb04b9763d9,mania.fashion,available,32.49,32.49,medium,
 d819326c-628e-42ab-a88f-c8c4499ab8ff,devour.fashion,available,32.49,32.49,high,low,6,namesilo,,,
 da40dc58-890f-4d05-8e54-99ae3f4c0a09,grandfather.fashion,available,32.49,32.49,high,low,11,namesilo,,,
 59043398-333c-4c49-87e0-e594118d3f33,chinesenoodles.fashion,available,32.49,32.49,medium,low,15,namesilo,,,
-93ed6d63-e4c8-4442-860f-47e55993f25f,common.fashion,available,32.49,32.49,high,low,6,namesilo,,,
+93ed6d63-e4c8-4442-860f-47e55993f25f,common.fashion,available,46.99,46.99,low,low,6,name.com,,,23/09/2026 15:53
 83adefe0-5437-4f0a-9c2e-c1c13cea3900,involved.fashion,available,32.49,32.49,high,low,8,namesilo,,,
 55539270-326c-471d-880c-38522676401b,orangenotice.fashion,available,32.49,32.49,medium,low,13,namesilo,,,
 795f073a-2e7e-4780-ac9a-d300dfa20d58,tow.fashion,premium,854,29.5,medium,low,3,namesilo,,,
@@ -984,7 +980,7 @@ f6b528eb-fd2a-4cd3-bba6-17bcd3b740c1,active.fashion,premium,5520,29.5,medium,low
 24b6198c-6c33-46e3-a71b-b996cdf07dc4,employ.fashion,premium,47.2,29.5,medium,low,6,namesilo,,,08/09/2026 13:39
 a0e050b5-4f09-4e2f-a72c-f6a46ac751df,shy.fashion,premium,854,29.5,medium,low,3,namesilo,,,
 eb248d0a-4948-4b8e-af07-9c556cd165f9,undergraduate.fashion,available,32.49,32.49,high,low,13,namesilo,,,
-182b394c-2297-46ee-ba36-d45fd8cd0698,final.fashion,available,42.99,45.99,high,low,5,name.com,,,
+182b394c-2297-46ee-ba36-d45fd8cd0698,final.fashion,available,33.98,45.98,medium,low,5,namecheap,,,23/09/2026 19:07
 b9039dd0-ad10-4c92-99bd-1f62be8eb18d,released.fashion,available,32.49,32.49,low,low,8,namesilo,,,
 b73db654-1925-41cc-a51e-cc91ab935665,brandnew.fashion,resell,,,medium,low,9,"GoDaddy.com, LLC",24/02/2019 21:50,24/02/2027 21:50,23/09/2026 02:16
 5f9472d5-f796-4f99-b565-0a05c60d15e3,trimback.fashion,available,32.49,32.49,medium,low,9,namesilo,,,
@@ -999,3 +995,7 @@ c17fb200-5959-4a45-a9f3-d25feb0aba14,hallwaymonitor.fashion,available,45.98,,med
 678d3f8f-bd95-4104-948e-d07351b3a4be,situation.fashion,available,32.49,32.49,high,low,9,namesilo,,,
 b2ab5c0f-d0f9-41ef-97e2-f2153e90bc1c,precipitous.fashion,available,32.49,32.49,low,low,11,namesilo,,,
 8f91f88f-55a5-48e0-ba09-8a3834c81986,invariably.fashion,available,32.49,32.49,medium,low,10,namesilo,,,
+ec9bde70-300f-4669-bdfd-82fe7e6a382f,hecksno.fashion,available,32.49,32.49,medium,low,8,namesilo,,,
+8f56e4fa-4f83-4e05-9c19-bc732ee3242a,ascending.fashion,available,32.49,32.49,low,low,9,namesilo,,,07/08/2026 00:51
+dd7f8396-b982-4c67-b252-ea75622702e2,those.fashion,available,32.49,32.49,medium,low,5,namesilo,,,
+ecf4efe7-3dbf-450f-b6ac-d7b416402df1,parenting.fashion,available,32.49,32.49,high,low,9,namesilo,,,

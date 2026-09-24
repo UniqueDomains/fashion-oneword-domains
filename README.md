@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fashion one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,468 domains · **Median ask:** $59.45 · **High-demand under $2,500:** 12
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/fashion`
 **Best for:** founders, investors, studios
 
@@ -76,9 +76,9 @@ print(df.head())
 | navy.fashion      | available | $45.98    | —             | high           | low    | 4      | namecheap                                           |
 | xxx.fashion       | resell    | —         | —             | low            | medium | 3      | GoDaddy.com, LLC                                    |
 | azo.fashion       | premium   | $47.20    | $29.50        | low            | low    | 3      | namesilo                                            |
-| soft.fashion      | available | $42.99    | $45.99        | high           | low    | 4      | name.com                                            |
+| soft.fashion      | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                                            |
 | book.fashion      | resell    | —         | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| cod.fashion       | premium   | $242      | $29.50        | high           | low    | 3      | namesilo                                            |
+| cod.fashion       | premium   | $242      | $29.50        | low            | low    | 3      | namesilo                                            |
 | trey.fashion      | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                                            |
 | game.fashion      | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                     |
 | dig.fashion       | premium   | $854      | $29.50        | high           | low    | 3      | namesilo                                            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FASHION One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FASHION One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
