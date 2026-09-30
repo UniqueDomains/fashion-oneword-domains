@@ -1,10 +1,10 @@
-# Available .FASHION One-Word Domains (26,179)
+# Available .FASHION One-Word Domains (28,399)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C179%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C399%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .fashion one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,179 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **28,399 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,179 domains · **Median ask:** $73.07 · **High-demand under $2,500:** 34
+**Public extract:** 1,000 rows · **Live catalog:** 28,399 domains · **Median ask:** $70.68 · **High-demand under $2,500:** 37
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/fashion`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| abcs.fashion    | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                      |
-| family.fashion  | resell    | $45.98    | —             | high           | medium | 6      | West263 International Limited |
-| abo.fashion     | premium   | $242      | $29.50        | high           | low    | 3      | namesilo                      |
-| asch.fashion    | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                      |
-| contact.fashion | resell    | $32.49    | $32.49        | high           | medium | 7      | namesilo                      |
-| ade.fashion     | premium   | $242      | $29.50        | high           | low    | 3      | namesilo                      |
-| awry.fashion    | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                      |
-| bonus.fashion   | resell    | —         | —             | high           | low    | 5      | —                             |
-| afc.fashion     | premium   | $41.60    | $26.08        | high           | low    | 3      | spaceship                     |
-| beak.fashion    | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                      |
-| oxygen.fashion  | resell    | —         | —             | high           | low    | 6      | West263 International Limited |
-| aid.fashion     | premium   | $242      | $29.50        | high           | low    | 3      | namesilo                      |
-| clot.fashion    | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                      |
-| anu.fashion     | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo                      |
-| dslr.fashion    | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                      |
-| bsc.fashion     | premium   | $52       | $32.50        | high           | low    | 3      | namecheap                     |
-| hahn.fashion    | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                      |
-| flu.fashion     | premium   | $242      | $29.50        | high           | low    | 3      | namesilo                      |
-| lakh.fashion    | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                      |
-| gip.fashion     | premium   | $242      | $29.50        | medium         | low    | 3      | namesilo                      |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| abcs.fashion     | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                      |
+| family.fashion   | resell    | $45.98    | —             | high           | medium | 6      | West263 International Limited |
+| abo.fashion      | premium   | $242      | $29.50        | high           | low    | 3      | namesilo                      |
+| asch.fashion     | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                      |
+| astro.fashion    | resell    | —         | —             | high           | medium | 5      | —                             |
+| ade.fashion      | premium   | $242      | $29.50        | high           | low    | 3      | namesilo                      |
+| beak.fashion     | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                      |
+| bonus.fashion    | resell    | —         | —             | high           | low    | 5      | —                             |
+| aid.fashion      | premium   | $242      | $29.50        | high           | low    | 3      | namesilo                      |
+| clot.fashion     | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                      |
+| oxygen.fashion   | resell    | —         | —             | high           | low    | 6      | West263 International Limited |
+| anu.fashion      | premium   | $47.20    | $29.50        | high           | low    | 3      | namesilo                      |
+| dslr.fashion     | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                      |
+| catalyst.fashion | resell    | —         | —             | high           | medium | 8      | —                             |
+| bsc.fashion      | premium   | $52       | $32.50        | high           | low    | 3      | namecheap                     |
+| hahn.fashion     | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                      |
+| flu.fashion      | premium   | $242      | $29.50        | high           | low    | 3      | namesilo                      |
+| lakh.fashion     | available | $32.49    | $32.49        | medium         | low    | 4      | namesilo                      |
+| gip.fashion      | premium   | $242      | $29.50        | medium         | low    | 3      | namesilo                      |
+| pita.fashion     | available | $32.49    | $32.49        | high           | low    | 4      | namesilo                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 26,179 live domains                        |
+| 1,000-row public sample | 28,399 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 34 high-demand names under $2,500          |
+| Basic exported fields   | 37 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FASHION One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FASHION One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
